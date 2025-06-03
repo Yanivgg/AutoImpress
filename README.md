@@ -3,7 +3,6 @@
 ![AutoImpress](https://img.shields.io/badge/AutoImpress-Clinical_AI-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat-square)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-4.21.0-yellow?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-red?style=flat-square)
 
 *Automated clinical impression generation from structured radiology reports using Large Language Models*
 
