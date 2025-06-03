@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+torch
+openai
+datasets
+transformers
+bert-score
+azure-ai-inference
+azure-core
+jupyter
+ipykernel

@@ -1,0 +1,1783 @@
+uid,acute_findings_report,ground_truth_impression,gpt_equivalence
+511,Hyperaerated lungs with flattened hemidiaphragms. Increased retrosternal airspace.,No acute findings.,No
+3211,Small bilateral pleural effusions. Atherosclerotic changes of the aorta. Increased kyphosis. Arthritic changes.,1. Probable small bilateral pleural effusions. 2. Possible lower thoracic [REDACTED] deformity not well characterized on today's study.,No
+1588,No acute findings.,Normal chest,Yes
+2341,No acute findings.,No acute process.,Yes
+2571,No acute findings.,No acute cardiopulmonary disease.,Yes
+3725,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2132,No acute findings.,No acute findings.,Yes
+377,No acute findings.,No evidence of active disease.,Yes
+3694,"Increased left apical pneumothorax, now measuring approximately 0.9 cm from the thoracic apex.",No acute cardiopulmonary abnormality.,Yes
+2688,Mild cardiomegaly. Heavily calcified and tortuous aorta. Diffuse increased interstitial opacities. Osteopenia of the spine.,1. Cardiomegaly with diffuse interstitial opacities. Findings may be secondary to pulmonary edema. Atypical infection is another consideration.,No
+2285,Cardiomegaly. Crowded bronchovascular and interstitial markings.,[REDACTED] sternotomy [REDACTED] and mediastinal postsurgical changes. Stable cardiomegaly. Crowded bronchovascular and interstitial markings [REDACTED] related to low lung volumes and technique. Grossly stable appearance of the lungs compared to prior exam without overt edema or gross airspace consolidation.,No
+2541,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+2826,No acute findings.,Chronic interstitial lung disease and scars unchanged. No acute disease.,Yes
+2068,No acute findings.,Negative chest.,Yes
+1041,Lucency crosses the 10th left posterior rib.,"Question of posterior 10 rib fracture, correlate with [REDACTED] tenderness.",Yes
+931,No acute findings.,1. No acute pulmonary abnormality.,Yes
+3223,No acute findings.,No acute preoperative findings.,Yes
+933,No acute findings.,No active disease.. No visible cardiopulmonary injuries.,Yes
+202,Cardiomegaly; Pulmonary Congestion; Opacity/lung/interstitial; Pleural Effusion/bilateral/small,1. Cardiomegaly with central vascular congestion and increased interstitial opacities suggesting mild interstitial pulmonary edema. 2. Small bilateral pleural effusions. 3. No visible pneumothorax.,Yes
+2044,No acute findings.,Low lung volumes without acute cardiopulmonary disease.,Yes
+896,No acute findings.,No acute cardiopulmonary findings.,Yes
+2791,No acute findings.,No evidence of active disease.,Yes
+2718,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1438,No acute findings.,"No acute cardiopulmonary abnormality.. Specifically, no evidence of active tuberculous process.",Yes
+1711,Left hemidiaphragm eventration.,No acute findings,Yes
+1643,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+1959,No acute findings.,Stable exam without acute abnormality.,Yes
+2187,Tortuous aorta. Calcifications within the aortic arch. Stable calcified granuloma within the lingula. Surgical clips within the right upper abdomen.,1. No acute radiographic cardiopulmonary process.,Yes
+2730,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+630,No acute findings.,No acute cardiopulmonary disease,Yes
+813,Minimal atelectasis versus scarring in the left lung base. Degenerative changes of the thoracic spine.,Low lung volumes with minimal left basilar atelectasis versus scarring.,Yes
+59,Stable elevation of the left hemidiaphragm.,No acute abnormalities are seen. .,No
+959,Minimal patchy right lower lobe airspace disease.,1. Patchy right lower lobe airspace disease may be due to atelectasis or infiltrate.,Yes
+3170,Aorta is tortuous and ectatic. Endplate sclerotic changes are present in the thoracic spine.,Ectatic aorta. No acute cardiopulmonary abnormality.,No
+161,Scattered left basilar atelectasis.,"1. [REDACTED] of left base atelectasis. Otherwise, clear.",Yes
+1758,No acute findings.,1. Hypoinflation without acute parenchymal infiltrate. 2. Mild mediastinal prominence [REDACTED] related to superimposed [REDACTED] and mediastinal fat.,No
+2704,No acute findings.,"1. [REDACTED] indeterminant small nodular opacities. May be granulomas or bone islands. However, [REDACTED] is recommended given the history of malignancy. 2. Otherwise no acute cardiac or pulmonary disease process identified.",No
+2769,Biapical bullous emphysematous changes. Mild multilevel degenerative changes of the thoracic spine.,1. No acute cardiopulmonary abnormality. 2. Stable bullous emphysematous changes.,No
+3798,Patchy right lower lung opacification.,Right basilar airspace disease.,Yes
+363,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+379,Moderate cardiomegaly. Mild calcification of the transverse [REDACTED]. Bilateral airspace opacities. Bilateral pleural effusions.,1. Interval placement of a dual-lumen dialysis catheter with the distal tip projected over the right atrium. 2. Bibasilar airspace opacities and bilateral pleural effusions.,Yes
+875,No acute findings.,1. Chest. No active disease. 2. The knee. Advanced degenerative joint disease.,No
+2961,"Patchy opacity in the left base (atelectasis vs. pneumonitis), curvilinear lucency in the right hemidiaphragm (possible free intraperitoneal air), small left pleural effusion.",1. Question small amount of free intraperitoneal air on the right. This is [REDACTED] to be postprocedural due to the recent abdominal surgery. 2. Left basilar airspace opacity atelectasis versus pneumonitis.,Yes
+1285,Mild nodular prominence of the right hilum; Lung hypoinflation.,1. Low lung volumes with mild crowding.,No
+2223,No acute findings.,Chest. No acute cardiopulmonary finding. Right elbow and forearm. No acute traumatic finding. Left ankle. 1. No acute traumatic finding. 2. Midfoot degenerative changes and calcaneal enthesopathy.,Yes
+3001,No acute findings.,No acute or active cardiac or pulmonary disease process. Cannot exclude small pleural effusions.,Yes
+3941,Cardiomegaly. Levocurvature of the thoracic spine.,1. No acute cardiopulmonary abnormality. 2. Cardiomegaly. .,No
+2277,No acute findings.,No radiographic evidence of acute cardiopulmonary disease.,Yes
+3343,No acute findings.,No acute cardiopulmonary process.,Yes
+2331,Focal atelectasis.,Low lung volumes with [REDACTED] opacities consistent with focal atelectasis.,No
+430,No acute findings.,No acute cardiopulmonary disease.,Yes
+1030,No acute findings.,There is no radiographic evidence of acute cardiopulmonary disease.,Yes
+36,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+3302,No acute findings.,No acute disease.,Yes
+1941,No acute findings.,Stable chest with stable position right chest pacemaker and leads overlie the right atrium and right ventricle. No pneumothorax identified. .,Yes
+3506,No acute findings.,No active disease.,Yes
+3658,Biapical fibronodular pleural thickening/scarring. Deformity of the anterior cortex of the [REDACTED] body.,"Buckling deformity of the anterior cortex of the [REDACTED] body. Fracture is possible, if high energy [REDACTED] was localized to this region. Correlate with focal tenderness. [REDACTED] chest, if warranted.",Yes
+302,No acute findings.,No acute findings,Yes
+3088,No acute findings.,No acute cardiopulmonary abnormality. Levoscoliosis of the thoracic spine.,Yes
+166,No acute findings.,1. No evidence of active disease.,Yes
+937,No acute findings.,Unremarkable 2 views of the chest.,Yes
+1323,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1256,No acute findings.,No acute cardiopulmonary disease.,Yes
+1860,No acute findings.,1. No evidence of acute cardiopulmonary process. 2. Scoliotic curvature of the spine with [REDACTED] deformity of the T9 vertebral body.,Yes
+3512,No acute findings.,Negative chest x-[REDACTED]. No evidence of pneumonia.,Yes
+84,No acute findings.,Low lung volumes. No acute pulmonary disease.,Yes
+3046,Left perihilar nodular opacity (may be granulomatous). No acute findings.,"1. Left perihilar nodular opacity redemonstrated, appears dense, may be granulomatous, if desired one may consider CT for further characterization. 2. No acute cardiopulmonary abnormality. Redemonstrated azygos lobe. 3. No fracture visible. If clinical concern persists, consider dedicated rib series.",Yes
+3857,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3773,No acute findings.,1. No acute pulmonary abnormality.,Yes
+1423,Vascular calcifications aorta. Calcified breast implants. Borderline cardiomegaly.,"Borderline cardiomegaly, otherwise unremarkable exam.",No
+2570,"- Interval increase in size of the cardiac silhouette  
+- Mildly enlarged pericardial effusion  
+- Increased pulmonary vasculature with mildly increased interstitial markings and fissural thickening (mild pulmonary edema)  
+- Tortuous descending thoracic aorta",Cardiomegaly which appears [REDACTED] from [REDACTED] with probable mild pulmonary edema. .,Yes
+2753,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+902,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+391,No acute findings.,No acute cardiopulmonary findings.,Yes
+38,No acute findings.,No acute cardiopulmonary process.,Yes
+2424,No acute findings.,No acute pulmonary disease. No gross evidence for rib fracture.,Yes
+3544,Opacity in the right lung base (atelectasis versus bronchovascular crowding).,Bronchovascular crowding versus atelectasis within the right lung base otherwise no acute cardiopulmonary disease.,Yes
+3575,Central left midlung granuloma with calcified left hilar adenopathy.,No acute cardiopulmonary abnormality.,No
+3896,No acute findings.,No acute abnormality demonstrated.,Yes
+272,No acute findings.,No evidence of active disease.,Yes
+3423,Tortuosity of aorta. Degenerative changes in the thoracic spine.,"Tortuous aorta, otherwise unremarkable exam.",No
+2193,"Blunting of the right pleural space, possible effusion or scarring. Opacity in the right lung base, likely scarring. Thickening of the right pleura.",1. Stable right basilar scarring and right pleural thickening,No
+1311,Borderline enlarged cardiac silhouette. Low lung volumes with bronchovascular crowding.,"1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB.",No
+2316,No acute findings.,Negative chest.,Yes
+2812,Patchy infiltrate in the right lower lobe.,[REDACTED]. [REDACTED] patchy right lower lobe infiltrate consistent with pneumonia.,Yes
+2340,Multiple slightly distended loops from stomach to rectum. Formed stool in the rectum. Lung hypoinflation.,1. Chest. Hypoinflation with no visible active cardiopulmonary disease. 2. Abdomen. Negative. No mechanical obstruction.,No
+2767,No acute findings.,No evidence of active disease.,Yes
+1324,Dextroscoliosis of the thoracic spine.,No acute cardiopulmonary abnormality.,No
+881,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3391,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+60,"Left superior lower lobe 1.9 x 1.8 cm round density, increased in size, suspicious for potential malignancy.","1. Round area of density measuring 1.9 x 1.8 cm in left superior lower lobe with interval increased size compared to prior imaging. Recommend [REDACTED] chest, abdomen and pelvis with contrast for further evaluation. Dr. [REDACTED] [REDACTED] notified by the Veriphy critical result notification [REDACTED] of the left pulmonary mass and recommended followup [REDACTED] chest, abdomen and pelvis with contrast at [REDACTED] [REDACTED]/[REDACTED].",Yes
+1279,No acute findings.,No acute cardiopulmonary findings.,Yes
+341,No acute findings.,1. Chest. No active disease. 2. Right foot. Negative.,Yes
+3522,No acute findings.,No acute cardiopulmonary process.,Yes
+20,No acute findings.,No evidence of acute cardiopulmonary process. Stable appearance of the chest.,Yes
+2270,No acute findings.,No acute cardiopulmonary process.,Yes
+1579,No acute findings.,No acute pulmonary disease.,Yes
+560,No acute findings.,No acute cardiopulmonary process.,Yes
+3704,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+3468,"Aortic atherosclerotic vascular calcification. Biapical opacities, stable. Lungs hyperexpanded. Mild degenerative changes of the spine.","1. No focal airspace consolidation. 2. Emphysema. 3. Stable biapical opacities, possibly scarring.",No
+1909,Persistent patchy infiltrate in the right middle lobe; mild cardiomegaly; tortuous aorta.,Cleared left lower lobe airspace disease with persistent right middle lobe airspace disease.,Yes
+1760,Mild cardiomegaly. Small area of platelike atelectasis in left mid lung.,No active disease.,Yes
+1249,No acute findings.,No radiographic evidence of acute cardiopulmonary disease.,Yes
+220,Numerous bilateral pulmonary nodules have increased in size and number. The dominant nodule/mass in the left midlung is also mildly increased.,Interval increase in size and number of innumerable bilateral pulmonary nodules consistent with worsening metastatic disease.,No
+1376,No acute findings.,Clear lungs.,Yes
+234,No acute findings.,"Chest x-[REDACTED], lateral, and decubitus. 1. No acute cardiopulmonary abnormalities. 2. No evidence of pleural effusion. .",Yes
+525,Contour irregularity of the lateral right 9th rib of indeterminate age.,"1. No acute cardiopulmonary findings. 2. Age-indeterminate fracture of the right lateral 9th rib. If findings localize to this region, suspect acute fracture.",No
+1625,No acute findings.,No acute disease.,Yes
+3759,Hyperexpansion of lungs and flattening of the diaphragm consistent with COPD. Kyphosis and osteopenia of the thoracic spine. No displaced rib fractures.,No focal lung consolidation. COPD. No displaced fractures.,No
+2145,No acute findings.,Normal chest x-[REDACTED].,Yes
+1603,No acute findings.,Normal chest No evidence of tuberculosis,Yes
+1466,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+350,Left basilar patchy opacities. Small hiatal hernia.,"Left basilar patchy opacities, which may represent atelectasis or infection. .",Yes
+2159,No acute findings.,1. No acute pulmonary abnormality.,Yes
+2810,No acute findings.,Negative for acute cardiopulmonary findings.,Yes
+2681,No acute findings.,No acute cardiopulmonary disease.,Yes
+95,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1455,Calcified granuloma in the left midlung zone.,No acute pulmonary disease.,No
+1587,"Elevation of the left hemidiaphragm. Left humeral head anterior and inferior to the glenoid, concerning for anterior shoulder subluxation.","1. No active cardiopulmonary disease. 2. Left humeral head is positioned anterior and inferior to the glenoid, concerning for anterior shoulder subluxation. This is [REDACTED] related to the muscular dystrophy and decreased shoulder muscles support. 3. [REDACTED] postoperative changes from the spinal [REDACTED] placement.",Yes
+108,Mild increase in perihilar markings. Lungs are hypoinflated.,Low lung volumes with increased lung markings particularly in the left perihilar region [REDACTED] related to history of bronchitis. No acute infiltrate.,No
+368,No acute findings.,No acute cardiopulmonary findings.,Yes
+2295,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+2243,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2976,No acute findings.,"Hyperexpanded lungs, suggesting chronic obstructive pulmonary disease. No acute pulmonary process.",Yes
+2515,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2562,"Mild bibasilar opacities, mild bibasilar atelectasis. Low lung volumes and bronchovascular crowding. Stable degenerative change throughout the thoracic spine. Stable thoracolumbar retrolisthesis.",No acute radiographic cardiopulmonary process.,No
+2313,No acute findings.,No acute pulmonary disease.,Yes
+3826,No acute findings.,Negative for acute cardiopulmonary findings.,Yes
+680,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+3433,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2489,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+207,No acute findings.,No acute cardiopulmonary process. No obvious rib fractures. .,Yes
+1621,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+952,No acute findings.,1. A few basilar [REDACTED] of opacity. This may represent scarring or atelectasis.,No
+3611,Mild right basilar airspace disease which may represent atelectasis versus infiltrate.,1. No acute posttraumatic finding. 2. Mild right basilar airspace consolidation may represent atelectasis versus infiltrate. 3. Changes of chronic lung disease.,No
+2278,No acute findings.,No acute cardiothoracic disease or significant interval change.,Yes
+2106,No acute findings.,No active disease.,Yes
+301,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+281,No acute findings.,No active disease.,Yes
+1060,No acute findings.,No acute process.,Yes
+343,Early pulmonary edema. Airspace consolidation. Osteopenia. Mild pulmonary congestion.,"Mild interstitial prominence, [REDACTED] chronic though could reflect early pulmonary edema.",Yes
+1792,Streaky left basilar opacities and blunting of the left costophrenic sulcus secondary to a small effusion.,Small left pleural effusion with left basilar atelectasis.,Yes
+927,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1905,Enlarged cardiac contour. Calcified vasculature. Sequelae of prior granulomatous disease. Mild thoracic spondylosis.,No acute findings. Stable cardiac enlargement.,No
+245,"Left upper lobe airspace disease, most likely pneumonia.",1. Left upper lobe pneumonia.,Yes
+1417,Increased lucencies in the bilateral apices suggesting emphysematous bullae; horizontal oblique scarring in the left upper lobe.,1. No active disease.,No
+2275,Right middle lobe nodule (likely calcified). Degenerative endplate changes of the spine.,1. No acute radiographic cardiopulmonary process.,No
+2813,No acute findings.,No acute cardiopulmonary findings.,Yes
+415,No acute findings.,No acute disease.,Yes
+3085,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3641,Left base pleural-parenchymal irregularity compatible with scarring. Chronic appearing left rib contour irregularities may be posttraumatic or postsurgical.,No acute findings,No
+1349,No acute findings.,1. No evidence of active disease.,Yes
+2432,No acute findings.,No acute cardiopulmonary findings. .,Yes
+283,No acute findings.,Normal chest film.,Yes
+2088,No acute findings.,Stable cardiomegaly without acute cardiopulmonary abnormality.,Yes
+505,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+120,No acute findings.,Low lung volumes bilaterally with central bronchovascular crowding without focal cardiopulmonary disease. .,No
+578,No acute findings.,Chest radiograph. 1. No acute radiographic cardiopulmonary process.,Yes
+1273,No acute findings.,1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.,No
+2510,No acute findings.,Clear lungs.,Yes
+1925,Bihilar prominence.,Bihilar prominence may be secondary mild lymphoid enlargement. Followup chest x-[REDACTED] versus further imaging [REDACTED] may be indicated. Correlation with prior films would be helpful if available.,No
+1313,"Bibasilar airspace opacities with small bilateral pleural effusions, left greater than right. Calcified hilar lymph nodes bilaterally.","Small bilateral pleural effusions with bibasilar atelectasis and/or airspace disease, left greater than right.",Yes
+3061,Bandlike opacities in the right base consistent with atelectasis.,Bandlike opacities in the right base. Appearance suggests atelectasis.,No
+3996,Endplate changes in the spine.,Clear lungs. No acute cardiopulmonary abnormality. .,No
+967,No acute findings.,No acute cardiopulmonary findings.,Yes
+1696,No acute findings.,No acute cardiopulmonary disease.,Yes
+52,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3028,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+1216,NoNo acute findings.*,No acute [REDACTED] related findings. Please note that nondisplaced fractures may not be demonstrated.,Yes
+90,No acute findings.,No evidence of active disease.,Yes
+3963,No acute findings.,No acute cardiopulmonary findings.,Yes
+1687,No acute findings.,1. No acute cardiopulmonary abnormality. 2. Feeding tube tip [REDACTED] distal to the gastroesophageal junction.,Yes
+1908,"Nodular opacity overlying the upper lungs bilaterally may represent overlying telemetry [REDACTED] [REDACTED], correlate clinically.",No acute cardiopulmonary disease.,No
+1328,No acute findings.,No acute cardiopulmonary disease.,Yes
+702,Large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe. Right lung opacities and subsegmental atelectasis.,Large right pleural effusion with associated passive atelectasis of the right middle and lower lobes. Grossly clear left lung.,Yes
+282,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1679,No acute findings.,Normal chest,Yes
+1483,"Diaphragmatic Eventration/right; Aorta, Thoracic/tortuous",1. No evidence of active disease.,No
+3267,No acute findings.,No evidence of acute thoracic [REDACTED].,Yes
+503,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2359,"1. Mildly widened right acromioclavicular joint.  
+2. Blunted left costophrenic sulcus.  
+3. Moderately enlarged cardiac silhouette (cardiomegaly).",1. Left-sided small pleural effusion versus extrapleural fat or scarring. 2. Cardiomegaly.,No
+3760,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+347,No acute findings.,1. Clear lungs.,Yes
+1572,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3031,No acute findings.,Negative chest.,Yes
+3392,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1823,13 mm nodule in the right lower lobe; right hilar calcified lymph nodes.,"1. Chest. Large nodule at the right lung base that probably represents a granuloma although not it is not densely calcified. A low KV P chest radiograph can be obtained for confirmation as a there are no comparison studies available in the [REDACTED]. If the patient has an outside chest radiograph, comparison can be [REDACTED] and the report addended. 2. Ribs. Normal. Critical result notification documented through Primordial. If there are questions regarding this interpretation, please [REDACTED] [REDACTED].",No
+3768,Mild cardiomegaly. Accentuated thoracic kyphosis.,Chronic lung disease with no acute cardiopulmonary abnormality.,No
+2233,Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. Scattered chronic appearing irregular interstitial markings.,"Hyperinflated lungs, air trapping versus inspiratory [REDACTED].",No
+2593,Bilateral interstitial prominence. Mild cardiomegaly.,"Mild cardiomegaly with interstitial prominence, could represent mild interstitial edema, atypical infection, or chronic interstitial changes.",No
+3456,No acute findings.,"Low lung volumes, otherwise clear.",No
+495,Streaky airspace disease.,Streaky air space disease may represent infiltrate. .,Yes
+3521,Right greater than left biapical bullous emphysema; degenerative changes of the thoracic spine.,No evidence of acute cardiopulmonary process.,No
+3210,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+567,Minimal right middle lobe atelectasis. Degenerative endplate changes of the spine.,1. No acute radiographic cardiopulmonary process.,No
+2729,ERROR,1. No evidence of active cardiopulmonary disease. 2. Posttraumatic changes compatible with prior gunshot wound.,No
+2118,"Opacity in the left upper lobe, possible atelectasis or scarring.",1. Stable AICD with intact [REDACTED] replacement. 2. No acute radiographic cardiopulmonary process. .,Yes
+1291,Mild prominence left hilar contour.,No acute preoperative findings.,No
+3979,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+892,Hyperinflation. Subtle scarring in the lateral right base. Atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures.,COPD and probable right basilar scarring. No acute pulmonary disease identified.,No
+715,Increased streaky airspace disease in the right lung base.,"Chronic asymmetric elevation of the right hemidiaphragm with mildly increased right basilar airspace disease, atelectasis versus infiltrate. .",Yes
+839,No acute findings.,Normal chest.,Yes
+3639,No acute findings.,1. No evidence of pneumothorax or pneumomediastinum. 2. Clear lungs.,Yes
+3451,Small right-sided pleural effusion versus thickening. Right inferior rib deformities.,Stable blunting of right costophrenic [REDACTED] with small pleural effusion versus thickening and associated healed right rib deformities.,No
+1717,No acute findings.,No acute process.,Yes
+2650,Cardiac silhouette enlargement. Elevation of the left hemidiaphragm.,1. Stable cardiomegaly without infiltrates.,No
+1954,No acute findings.,No acute disease.,Yes
+2672,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+639,No acute findings.,No evidence of active disease.,Yes
+2789,Mild aortic ectasia/tortuosity. Mediastinal calcifications. Dense nodule in the lingula.,No acute cardiopulmonary findings,No
+383,No acute findings.,No acute cardiopulmonary disease.,Yes
+486,No acute findings.,1. No acute pulmonary abnormality.,Yes
+654,No acute findings.,No acute cardiopulmonary finding.,Yes
+351,No acute findings.,1. No acute pulmonary abnormality.,Yes
+2520,No acute findings.,No evidence of active disease.,Yes
+1192,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3770,No acute findings.,"No focal lung opacity, pleural effusion of pneumothorax.",Yes
+2061,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+221,"Atherosclerotic aorta. Mild blunting left costophrenic recess, possibly mild atelectasis or scarring. Thoracic spondylosis.","Mild blunting left costophrenic recess, possibly mild atelectasis or scarring.",No
+229,No acute findings.,No acute cardiopulmonary findings,Yes
+3155,Heart size mildly enlarged with enlarged right atrium.,"Cardiomegaly, no acute pulmonary findings",No
+1766,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+3460,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+2871,No acute findings.,No acute cardiopulmonary disease.,Yes
+32,Mild blunting of right costophrenic angle.,No acute disease.,Yes
+1757,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2394,No acute findings.,No acute radiographic cardiopulmonary process. .,Yes
+516,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2824,No acute findings.,1. Hyperexpansion without acute pulmonary abnormality.,Yes
+173,No acute findings.,Low lung volumes. No acute cardiopulmonary findings.,Yes
+2588,Nodular density projected over the left base with no lateral view correlate. No acute osseous injury.,No acute findings. Please note that fractures may not be demonstrated and consider additional imaging as clinically indicated.,No
+182,"Patchy airspace opacities in the left lower lobe, compatible with infiltrate.",Left lower lobe infiltrate.,Yes
+945,Consolidation in the left upper lobe; anterior segment opacity.,"Developing left upper lobe consolidation and focal atelectasis, consistent with pneumonitis.",Yes
+2899,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1876,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1027,No acute findings.,1. Limited chest radiograph examination without demonstration of an acute intrathoracic abnormality.,Yes
+2034,Opacity in the right lower lung (atelectasis versus scarring). Significantly decreased subcutaneous soft tissue. Probable pectus deformity.,"1. No acute cardiopulmonary abnormality. 2. Hyperlucent lungs, [REDACTED] related to cachexia and probable pectus excavatum deformity.",No
+539,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+1072,Interval development of left lower lobe airspace disease. Aorta is calcified and tortuous.,1. Interval development of left lower lobe airspace disease. This may be due to atelectasis or infiltrate.,Yes
+3712,Changes of renal osteodystrophy are noted.,1. No evidence of active disease.,No
+2600,No acute findings.,No active disease.,Yes
+558,No acute findings.,No evidence of active disease.,Yes
+2787,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1838,No acute findings.,No acute cardiopulmonary finding.,Yes
+906,Cardiomegaly/mild,"Mild cardiomegaly, no acute pulmonary findings",No
+2058,No acute findings.,No acute disease.,Yes
+3171,No acute findings.,No active disease.,Yes
+1025,No acute findings.,Negative for acute abnormality.,Yes
+590,"Right middle lobe airspace disease, may reflect atelectasis or pneumonia. Elevated right hemidiaphragm.",Right middle lobe airspace disease may reflect atelectasis or pneumonia. .,No
+991,Mild streaky perihilar opacity.,Minimal perihilar opacity which could indicate an atypical pneumonia.,No
+3387,"Minimal right basilar airspace disease, possibly in the right middle lobe.","Minimal right basilar airspace disease, [REDACTED] right middle lobe.",Yes
+2888,Descending thoracic aorta is tortuous. Degenerative changes are present in the spine.,No evidence of active disease.,No
+1148,No acute findings.,Negative chest x-[REDACTED].,Yes
+697,Left retrocardiac airspace disease with obscuration of the left hemidiaphragm. Limited lateral view due to rotation.,Left basilar airspace disease. Recommend follow up chest x-[REDACTED] to document resolution [REDACTED] for better characterization.,Yes
+2848,Mild cardiomegaly. Calcified hilar lymph nodes.,No evidence of active tuberculosis.,No
+798,No acute findings.,No acute abnormality.,Yes
+212,No acute findings.,Chest. Right shoulder. 1. No acute cardiopulmonary abnormality. 2. Negative for right shoulder fracture or dislocation.,Yes
+1968,No acute findings.,1. Technically limited exam. 2. No acute cardiopulmonary abnormalities. .,Yes
+3618,No acute findings.,No acute cardiopulmonary abnormalities. Emphysematous changes of the lungs.,Yes
+993,No acute findings.,Normal chest No evidence of tuberculosis,Yes
+1012,"Bibasilar consolidation, bilateral costophrenic angle blunting, bilateral airspace disease, bilateral pleural effusion.",Bibasilar airspace disease and bilateral pleural fluid.,Yes
+3750,Right pleural effusion slightly increased in size.,Stable cardiomegaly and [REDACTED] of interstitial edema with small but increasing right pleural effusion.,Yes
+781,No acute findings.,No acute cardiopulmonary disease.,Yes
+3985,Calcified granuloma in the anterior left lower lobe.,No acute cardiopulmonary abnormality. .,No
+17,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3901,Bibasilar air space opacities; lungs hypoinflated with blunted costophrenic angles.,Stable postsurgical changes of esophagectomy with improved bibasilar airspace opacities/atelectasis.,No
+206,"Acute or abnormal findings:  
+1. 2.6 cm diameter masslike density over the lingula with partial obscuration of the left cardiac border.  
+2. Ill-defined opacity in the right mid and lower lung zone.  
+3. Borderline enlarged heart.  
+4. Dilated and tortuous aorta.  
+5. Impacted and rotated fracture through the neck of the left femur.  
+6. Extensive atherosclerotic vascular disease in the superficial femoral artery.  
+7. Severe atherosclerotic changes of the superficial femoral and popliteal artery.",Chest. 1. Left lower lobe nodule which is worrisome. If there are no prior films available for comparison [REDACTED] scan for further evaluation. Pelvis and left hip. Rotated subcapital fracture left hip. Femur. 1. No fracture the remaining portions of the femur. Left knee. 1. Normal for age.  Dr. [REDACTED]- [REDACTED] was called and informed of these critical results at [REDACTED].,No
+3599,No acute findings.,No acute cardiopulmonary finding.,Yes
+1556,Confluent and [REDACTED] opacities seen within the left base. Tortuous aorta.,1. Left basilar mixed interstitial and alveolar infiltrate. Interval followup to resolution is recommended.,Yes
+1264,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2829,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+329,No acute findings.,"Stable appearance of the chest, see above.",No
+2021,No acute findings.,No acute cardiopulmonary findings,Yes
+1462,No acute findings.,1. Negative for acute cardiopulmonary findings.,Yes
+1822,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2828,No acute findings.,Findings suggestive of emphysema. No acute cardiopulmonary process.,No
+3875,No acute findings.,Stable left lower lung interstitial infiltrates or fibrosis. No acute cardiopulmonary findings.,Yes
+74,Calcified granuloma on left; atherosclerotic changes of the aorta; increased kyphosis of the thoracic spine; multiple deformities.,No acute pulmonary disease. Multiple thoracic [REDACTED] deformities [REDACTED] due to osteoporosis.,No
+1317,Minimal atelectasis in the left base. Foreign body in the soft tissues overlying the left lateral chest wall.,"Minimal atelectasis left base, no acute abnormality.",Yes
+1353,"Diffuse right-sided airspace disease with dense consolidation in the right base. Right upper extremity PICC with tip in the right brachiocephalic vein, retracted approximately 6 cm.",Multifocal right-sided pneumonia.,Yes
+1123,No acute findings.,1. Stable chronic lung changes without acute cardiopulmonary abnormality.,Yes
+506,No acute findings.,No x-[REDACTED] evidence of metastatic disease.,Yes
+3242,No acute findings.,No acute cardiopulmonary finding.,Yes
+512,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3588,No acute findings.,1. No acute pulmonary disease.,Yes
+299,Small hiatal hernia.,No acute findings. Small hiatal hernia.,No
+2748,No acute findings.,No evidence of active disease.,Yes
+3336,Left-sided rib fractures (age-indeterminate). Calcified right hilar lymph node. Basilar calcified granulomas. Minimal degenerative changes of the spine.,Multiple age-indeterminate left-sided rib fractures.,No
+2886,Patchy opacity left base. Small right effusion.,"1. Patchy opacity left base, may represent evolving infiltrate. 2. Small right pleural effusion. .",Yes
+1683,Right greater than left bilateral hilar and subcarinal adenopathy. Prominent cardiac silhouette (likely due to diminished lung volumes). Deformity of the left clavicle.,No evidence of acute cardiopulmonary process. Mediastinal and hilar adenopathy compatible with patient's known sarcoidosis.,No
+147,Healing left 4th rib fracture.,1. No acute cardiopulmonary disease,No
+1451,Left lower lobe calcified granuloma. Mild medial right atelectasis. Mild emphysema.,Emphysema and mild medial right atelectasis. No acute process.,No
+308,Elevated right hemidiaphragm.,Stable right-sided chronic lung scarring otherwise no acute cardiopulmonary disease.,No
+1301,No acute findings.,No acute findings,Yes
+2938,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+456,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3839,Small calcified lymph nodes. Elevated right hemidiaphragm. Streaky areas of atelectasis.,"1. Borderline heart size, stable. 2. Interval left subclavian pacemaker placed in satisfactory position. No pneumothorax.",No
+2246,Right lung base airspace disease. Left lung base opacities consistent with atelectasis. Mild wedge deformity of T12.,Right lung base airspace disease and left base atelectasis.,Yes
+1920,No acute findings.,No acute cardiopulmonary findings.,Yes
+2470,No acute findings.,No acute abnormality.,Yes
+3689,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3256,"Mild cardiomegaly. Small bilateral pleural effusions, left greater than right with left basilar opacities. Mild degenerative changes of the thoracic spine.",Cardiomegaly with small bilateral pleural effusions and left basilar atelectasis.,Yes
+482,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+995,No acute findings.,Post operative chest with no acute disease.,Yes
+568,Tortuous aorta. Calcified hilar lymph nodes. Hyperinflated lungs. Right humeral fracture fixation. Osteopenia. Exaggerated kyphosis of the thoracic spine.,No acute cardiopulmonary finding.,No
+1460,No acute findings.,Negative chest x-[REDACTED].,Yes
+2236,No acute findings.,Unremarkable chest x-[REDACTED]. .,Yes
+142,No acute findings.,"No acute cardiopulmonary findings. Specifically, no radiographic evidence of active tuberculosis.",Yes
+920,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1463,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3687,Minimal patchy atelectasis or early infiltrate in left lung base.,Minimal patchy left basilar atelectasis or infiltrate.,Yes
+3551,Dense left lower lobe nodule suggests a previous granulomatous process. Technical Quality of Image Unsatisfactory.,No acute findings,No
+2889,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3096,Prominent right paratracheal soft tissue density. Rounded mass in the right middle lobe (4.6 cm x 3.7 cm). Mild surrounding airspace disease and/or atelectasis.,Right mid lung mass with mild right paratracheal soft tissue may be secondary to associated lymphadenopathy. Further imaging with CT of the chest is recommended.,Yes
+1432,No acute findings.,1. No evidence of active disease.,Yes
+1943,No acute findings.,"Multiple bilateral calcified granulomas most [REDACTED] sequela of granulomatous process. No focal infiltrate or consolidation. . If one would like to discuss this case further, please [REDACTED]. [REDACTED] at [REDACTED]. Thanks.",No
+907,No acute findings.,No evidence of active disease.,Yes
+129,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1610,No acute findings.,No active disease.,Yes
+3116,Enlarged cardiac silhouette. Bibasilar airspace opacities left greater than right. Small right pleural effusion.,Bibasilar airspace disease left greater than right with small effusions.,Yes
+256,No acute findings.,Postoperative left upper lobe. No visible active cardiopulmonary disease.,Yes
+2638,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3890,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+2056,No acute findings.,No acute cardiopulmonary disease.,Yes
+811,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1948,No acute findings.,No acute radiographic cardiopulmonary process.,Yes
+3147,No acute findings.,Negative chest .,Yes
+2581,No acute findings.,CHEST. No acute cardiopulmonary disease. ABDOMEN. Normal bowel [REDACTED] pattern.,Yes
+2618,Small focal retrocardiac lung opacity.,"Small left retrocardiac opacity, may represent minimal atelectasis or small focus of airspace disease.",Yes
+3855,"- Development of multiple nodules in both upper and lower lobes bilaterally  
+- Increase in size of previously identified left lower lobe nodule  
+- Left hemidiaphragm slightly elevated","Multiple pulmonary nodules consistent with metastases. Chest, abdomen, and pelvis CT with contrast would be helpful for further evaluation.",Yes
+1506,Increased peribronchial cuffing. Subpleural edema outlining the right fissure. Mild pulmonary congestion.,"1. Stable and adequately placed [REDACTED]. 2. Prominent pulmonary vasculature, subpleural edema, and peribronchial cuffing suggestive of volume overload versus viral bronchiolitis.",Yes
+3657,Vascular congestion in bilateral hilar areas. Lungs are hyperexpanded with flattened diaphragms.,1. Hyperexpanded lungs. 2. Otherwise normal chest x-[REDACTED].,Yes
+955,Persistent prominent interstitial markings of the right upper lobe.,No acute abnormality. Stable chest.,No
+1396,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+53,Right basilar opacity. Severe lung hypoinflation.,"Low lung volumes with right basilar atelectasis. Otherwise, no acute cardiopulmonary disease.",Yes
+3229,No acute findings.,No pulmonary nodules. Negative chest.,Yes
+260,No acute findings.,"1. No acute cardiopulmonary abnormality. 2. Lucent lesion with thin sclerotic margin in the right humeral head. Considering the associated degenerative changes, a large geode is most [REDACTED]. If further imaging is desired, dedicated views of the shoulder may be helpful for further characterization.",Yes
+2477,No acute findings.,1. Stable cardiomegaly with right mediastinal shift. 2. Stable interstitial markings and prominent bibasilar airspace opacities which [REDACTED] represent atelectasis.,No
+478,No acute findings.,No acute findings.,Yes
+1846,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+2148,No acute findings.,No acute preoperative findings.,Yes
+1538,Prominent left ventricular contour. Unfolding of the thoracic aorta.,No acute cardiopulmonary abnormalities.,No
+3809,No acute findings.,Negative chest x-[REDACTED].,Yes
+392,No acute findings.,No acute cardiopulmonary disease.,Yes
+295,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1881,Aortic atherosclerosis. No acute findings.,Negative. No significant change from [REDACTED].,No
+2833,No acute findings.,No acute cardiopulmonary disease.,Yes
+3820,No acute findings.,1. No acute pulmonary abnormality.,Yes
+3303,Vague 1.6 cm nodular opacity in the right upper lobe.,"Vague nodular opacity in the right lobe, which could represent focal infiltrate or nodule. Recommend followup to resolution.",Yes
+662,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+1730,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3361,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1728,No acute findings.,After further review with staff radiologist there is a right upper lobe focal opacity [REDACTED] reflecting pneumonia.,Yes
+1276,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2937,No acute findings.,No acute cardiopulmonary findings.,Yes
+3269,No acute findings.,No active disease.,Yes
+2893,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+3209,No acute findings.,No acute cardiopulmonary process.,Yes
+2646,No acute findings.,No acute pulmonary disease.,Yes
+651,Abnormal convexity within the mediastinum representing adenopathy; small left pleural effusion.,1. Small left pleural effusion. 2. Mediastinal adenopathy noted but better evaluated on the [REDACTED] [REDACTED] CT.,Yes
+3370,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+666,"Mildly enlarged heart, atherosclerotic and ectatic aorta, chronic parenchymal changes with mild scarring and/or subsegmental atelectasis in the right lung base, blunted costophrenic angles.",Borderline cardiomegaly and mild chronic changes. No acute infiltrate.,No
+1,No acute findings.,Normal chest x-[REDACTED].,Yes
+1088,"Mild streaky opacity lateral right lung, atelectasis versus scarring.","Small streaky opacity lateral right lung, subsegmental atelectasis versus scarring.",No
+2129,NoNo acute findings.*,No acute cardiopulmonary disease.,Yes
+3944,No acute findings.,No active disease.,Yes
+2983,No acute findings.,1. No acute cardiopulmonary abnormalities. 2. No acute bony abnormalities. .,Yes
+2920,No acute findings.,No active disease.,Yes
+462,Mild cardiomegaly. Mild unfolding of the thoracic aorta.,"1. Mild cardiomegaly. 2. Otherwise, no acute cardiopulmonary abnormalities.",No
+1001,Interstitial markings are diffusely prominent throughout both lungs.,Diffuse fibrosis. No visible focal acute disease.,No
+3865,"Bilateral rib deformities, possibly old fractures.",No acute disease.,No
+253,"Moderate left pneumothorax, unchanged. Left pleural catheter present.",No change in moderate left pneumothorax with left pleural drainage catheter again seen overlying the left upper lung.,Yes
+1616,No acute findings.,"Chest. No acute cardiopulmonary abnormality. Ribs. No displaced rib fractures, or obvious nondisplaced rib fractures.",Yes
+406,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+318,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+756,No No acute findings.,No acute cardiopulmonary disease.,Yes
+2856,No acute findings.,No acute cardiopulmonary disease.,Yes
+860,No acute findings.,Chronic lung disease without acute findings.,Yes
+1750,Streaky left basilar opacities favored to represent scarring. Hyperexpanded lungs with flattened diaphragms and increased retrosternal clear space suggestive of emphysema. Exaggerated thoracic kyphosis.,1. No acute cardiopulmonary findings. 2. Chronic changes of emphysema and left basilar scarring.,No
+1854,No acute findings.,Negative for acute abnormality.,Yes
+178,Worsened patchy opacities in the left apex and right base.,Changes of chronic interstitial lung disease with ill-defined patchy left apical and right basilar airspace disease. PA and lateral chest radiograph may be of benefit [REDACTED] clinically feasible.,Yes
+3644,No acute findings.,Negative for acute abnormality. Left ventricular enlargement. Tortuous thoracic aorta.,Yes
+585,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2205,"Irregular 1.2 cm opacity in the left upper lung (chronic scarring). Tortuous aorta. Partial resection of the posterior fourth rib. Anterior wedging of multiple vertebral bodies including T6, T8, T11 and T12.",[REDACTED] scarring or pleural plaque in the left upper lobe with partial resection of the posterior fourth rib. No acute findings.,No
+718,No acute findings.,No acute pulmonary disease.,Yes
+1111,Severe cardiomegaly. Technical Quality of Image Unsatisfactory.,Severe cardiomegaly. Limited mediastinal evaluation given body habitus and lordotic projection. Recommend [REDACTED] for further evaluation of mediastinum given T/Spine injury noted on C/Spine imaging. Critical result notification documented through Primordial.,No
+3695,Mild pulmonary congestion. Prominent central vascular markings.,"1. Mild central vascular prominence, [REDACTED] congestion. Heart size at the upper limits of normal.",Yes
+2533,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+39,No acute findings.,No active disease.,Yes
+215,No acute findings.,1. Stable cardiomegaly with no focal airspace disease. 2. Stable moderate thoracic levoscoliosis and mild thoracolumbar dextroscoliosis. .,No
+1561,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+2291,No acute findings.,No acute abnormality. .,Yes
+2245,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+291,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1189,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1019,Blunting of the right lateral costophrenic sulcus which could be secondary to a small effusion versus scarring.,Blunting of the right costophrenic sulcus could be secondary to a [REDACTED] effusion versus scarring. No focal airspace consolidation.,Yes
+1525,"Large hydropneumothorax within the left chest with essentially complete collapse of the left lung. Increased interstitial opacities in the medial right lung base and right upper lobe, with patchy airspace opacity in the right lung apex. Focal ovoid lucency (approximately 1.3 cm) at the right lung apex, possibly indicating cavitation.","1. Large left hydropneumothorax, with complete collapse of the left lung. 2. Airspace and interstitial opacity within the right upper and lower lobes. Possible apical cavitation. Tuberculosis should be excluded clinically.",Yes
+3748,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2656,No acute findings.,No acute cardiopulmonary process.,Yes
+1627,No acute findings.,1. No acute pulmonary abnormality.,Yes
+2138,No acute findings.,No acute abnormality seen.,Yes
+992,Bilateral pulmonary nodules suggestive of metastatic disease to lungs.,"1. Bilateral pulmonary nodules suggesting pulmonary metastases 2. Right internal jugular central catheter, the distal tip in the right atrium.",No
+1294,No acute findings.,No active disease.,Yes
+699,"Increased interstitial markings in the central lungs and bases, right greater than left.","Cardiomegaly and increased interstitial opacities which may be compatible with mild pulmonary edema, differential diagnosis includes infection, inflammation, aspiration",Yes
+515,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3816,No acute findings.,1. No evidence of active disease.,Yes
+2861,No acute findings.,1. No evidence of active disease.,Yes
+958,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+3349,No acute findings.,1. Hyperexpanded lungs consistent with emphysema. 2. Pectus carinatum. 3. No evidence of acute disease.,Yes
+2605,No acute findings.,1. No acute pulmonary disease.,Yes
+3288,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+225,No acute findings.,No acute cardiopulmonary abnormalities. .,Yes
+2240,No acute findings.,No acute disease.,Yes
+1649,"Acute or abnormal findings:  
+- Moderate layering left pleural effusion  
+- Moderate right pleural effusion (partially loculated)  
+- Pleural fluid tracking along the right fissure  
+- Bibasilar airspace disease (possibly passive atelectasis)","1. Partially loculated right pleural effusion, grossly stable. 2. Stable moderate layering left pleural effusion. 3. Bibasilar airspace disease, possibly atelectasis.",Yes
+3203,No acute findings.,No acute findings.,Yes
+3505,No acute findings.,Heart size is normal and the lungs are clear.,Yes
+3414,Heart size appears enlarged. Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.,1. Low volume study without definite acute process. 2. Mild cardiomegaly.,No
+858,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+1644,No acute findings.,No evidence of active disease.,Yes
+2349,No acute findings.,Normal chest.,Yes
+2793,No acute findings.,"Mild lung hyperexpansion, otherwise clear.",No
+2469,Mild bilateral opacification over both [REDACTED] secondary to soft tissue attenuation.,No acute pulmonary disease.,Yes
+382,"Marked bullous emphysematous changes and traction bronchiectasis, most notable in bilateral upper lobes. Prominent ovoid opacity in left upper lobe reflecting superimposed aspergilloma.","1. Marked bullous emphysematous changes and traction bronchiectasis, again most notable involving the bilateral upper lobes. Stable suspected superimposed left upper lobe aspergilloma - as more readily demonstrated on the previous CT chest study from [REDACTED].",No
+541,No acute findings.,"1. No acute cardiopulmonary findings. 2. Age-indeterminate mild anterior wedge deformity of a lower thoracic or upper lumbar vertebra. Correlate for focal tenderness and with prior imaging, if possible.",Yes
+1839,Granulomatous sequela. Previously visualized nodular density in the right upper lobe is not well-seen on today's study.,No acute disease.,No
+290,Multiple surgical clips seen near the apical regions and lower cervical region bilaterally. Screw in the right shoulder.,1. No active disease. 2. There are numerous small surgical clips seen overlying the upper thorax bilaterally and the lower cervical region of uncertain significance.,No
+67,No acute findings.,Low volumes with bronchovascular crowding. No acute abnormality.,Yes
+983,"Reticular opacities in the medial right middle lobe with tubular airway ectasia, compatible with bronchiectasis. Right heart border obscured.","1. No acute cardiopulmonary process. 2. Stable right middle lobe bronchiectasis, [REDACTED] postinfectious/postinflammatory. .",No
+2761,"Interval development of mild patchy airspace opacities within the posterior aspect of the right upper lobe, concerning for underlying pneumonia.","1. Suspected mild patchy right upper lobe pneumonia, for which clinical correlation is recommended.",Yes
+483,Flattening of hemidiaphragms. Prominent interstitial markings. Atherosclerotic changes of the aorta. Borderline cardiomegaly.,1. Hyperexpanded lungs with flattened hemidiaphragm suggesting COPD. 2. Borderline enlarged heart. 3. No acute cardiopulmonary abnormality.,No
+523,No acute findings.,Normal chest,Yes
+772,No acute findings.,"1. No acute cardiopulmonary abnormality. 2. Stable cardiomegaly, tortuous thoracic aorta and atherosclerotic calcification. .",Yes
+3946,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+187,No acute findings.,Unchanged exam without acute abnormality.,Yes
+1769,Consolidation and atelectasis in the left lower lobe. Patchy interstitial infiltrates in the right lower lobe. Bilateral costophrenic angle blunting.,"Bibasilar airspace disease, left worse right. Bilateral pleural fluid.",Yes
+1261,Mild cardiomegaly. Tortuosity of the descending aorta.,Mild cardiomegaly.,No
+3261,No acute findings.,Normal chest No evidence of sarcoidosis.,Yes
+1158,Cardiomegaly/mild; Aorta/tortuous,Continued slight cardiomegaly with no evidence for failure or pneumonia.,No
+535,Opacity in the left lower lobe (atelectasis or scarring).,[REDACTED] opacity in left lung base [REDACTED] represents atelectasis or scarring.,Yes
+2357,No acute findings.,No acute cardiopulmonary findings.,Yes
+2252,No acute findings.,Normal chest,Yes
+2552,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+1940,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1292,Borderline enlarged heart. Tortuous thoracic aorta. Fracture of distal right clavicle. Small round lucency in the distal left clavicle. Degenerative changes of the spine and both [REDACTED] joints.,"1. Borderline enlarged heart. 2. Tortuous/ectatic thoracic aorta. 3. Fracture of the distal right clavicle, better seen on today's radiograph of the shoulder.",Yes
+731,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+618,No acute findings.,No acute cardiopulmonary disease. No evidence for metastatic disease by radiographic evaluation.,Yes
+323,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2332,No acute findings.,No acute cardiopulmonary finding.,Yes
+1043,Bilateral small pleural effusions and left base atelectatic change.,Interval improvement in aeration of lung bases and pleural effusions. Residual small left effusion and questionable small right pleural effusion.,Yes
+2804,No acute findings.,No evidence of active disease.,Yes
+1629,No acute findings.,1. No active disease.,Yes
+2999,Patchy opacities in the left lung base; small left pleural effusion.,"1. Patchy left basilar subsegmental atelectasis, infiltrates and/or small left pleural effusion. .",Yes
+208,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1564,No acute findings.,"Chronic changes as described, no acute findings",Yes
+3609,Borderline cardiomegaly.,Borderline cardiomegaly. Otherwise unremarkable exam.,No
+3836,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2734,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+846,No acute findings.,No evidence of active disease.,Yes
+2616,"Acute or abnormal findings:  
+- Blunted right costophrenic sulcus  
+- Small right pleural effusion  
+- Hiatal hernia",1. Right-sided small pleural effusion. 2. Right base [REDACTED]/fluid level. Atypical location for a hiatal hernia. Cannot exclude a right lower lobe cavity. Correlation [REDACTED] scan recommended. Does not appear to be a hydropneumothorax or empyema.,Yes
+488,No acute findings.,No acute pulmonary findings. .,Yes
+2142,No acute findings.,No acute cardiopulmonary disease.,Yes
+3928,Aortic calcification. Prior granulomatous disease. Thoracic spondylosis.,No acute process.,No
+1885,No acute findings.,"Clear lungs, no acute cardiopulmonary abnormality.",Yes
+1457,No acute findings.,There is no evidence of acute cardiopulmonary disease. .,Yes
+2239,Interstitial prominence and basilar patchy air space opacity.,"Nonspecific interstitial prominence and basilar patchy airspace disease. Maybe due to pulmonary fibrosis, scarring and/or atelectasis. Comparison with outside previous films may be useful.",No
+2263,Moderately enlarged heart; opacity in the left lung base; pulmonary atelectasis at the left base.,1. Cardiomegaly 2. [REDACTED] [REDACTED] opacity in the left base [REDACTED] atelectasis,Yes
+596,No acute findings.,No acute disease.,Yes
+900,Acute or abnormal findings: Right chest catheter tip is visualized in the distal SVC. The right cardiac margin is partially obscured.,No acute disease.,Yes
+1182,No acute findings.,No acute findings,Yes
+1511,No acute findings.,No active disease.,Yes
+1485,Platelike horizontal opacities in both lung bases (consistent with scarring or subsegmental atelectasis). T-spine osteophytes. Calcified right hilar granuloma. Healed left 9th lateral rib fracture.,Unchanged platelike bibasilar opacities most [REDACTED] representing scarring or subsegmental atelectasis. No acute cardiopulmonary abnormality.,Yes
+2401,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+2898,No acute findings.,No acute cardiopulmonary findings,Yes
+370,No acute findings.,Negative for acute cardiopulmonary findings.,Yes
+591,No acute findings.,1. No acute cardiopulmonary process. 2. Age-indeterminate wedging of several midthoracic vertebral bodies.,No
+2531,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1052,No acute findings.,No acute abnormalities.,Yes
+980,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1449,Enlarged cardiac silhouette (cardiomegaly or pericardial effusion suspected). Hypoinflated lungs with central bronchovascular crowding. Right anterior hemidiaphragm eventration. Degenerative changes of the thoracic spine.,"1. Suspected cardiomegaly, less [REDACTED] pericardial effusion. Prior comparison studies would be helpful. 2. Low lung volumes. No evidence of focal airspace disease. .",No
+2168,No acute findings.,1. No acute abnormality. 2. Dextroscoliosis of thoracic spine unchanged. .,Yes
+3591,Moderate hiatal hernia. No acute findings.,1. Stable appearance of the chest with moderate hiatal hernia. No acute pulmonary disease.,Yes
+1380,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1235,Opacity in the lingula; focal pulmonary atelectasis.,Hypoinflation with lingular focal atelectasis.,Yes
+1883,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+1708,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+1821,No acute findings.,No acute cardiopulmonary finding. Specifically there is no evidence of active tuberculosis infection.,Yes
+1108,No acute findings.,Hyperinflated lungs. No acute cardiopulmonary abnormality. .,Yes
+348,No acute findings.,No acute cardiopulmonary process.,Yes
+2364,Hyperexpansion of the lungs suggesting underlying emphysema.,No acute cardiopulmonary disease,No
+1656,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+1786,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+710,No acute findings.,No active/acute cardiopulmonary disease.,Yes
+3084,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+312,No acute findings.,No acute pulmonary findings. .,Yes
+1763,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+236,No acute findings.,No acute cardiopulmonary findings.,Yes
+471,No acute findings.,No acute disease.,Yes
+2775,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1684,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3849,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+103,Prominent mediastinal contour near the right hilum (may represent ascending aorta or mediastinal lymphadenopathy). Mild degenerative changes of the thoracic spine.,[REDACTED] prominence of the mediastinal contour near the right hilum possibly representing the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation.,Yes
+328,No acute findings.,1. No evidence of active disease.,Yes
+1697,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+197,No acute findings.,1. Hyperexpanded lungs.,No
+3082,Cardiomegaly. Interstitial opacities consistent with edema in the lower lobes.,Interstitial pulmonary edema.,Yes
+1268,Tortuous thoracic aorta. No acute findings.,No acute cardiopulmonary disease. .,Yes
+3489,No acute findings.,Negative for acute abnormality.,Yes
+3357,No acute findings.,No active disease.,Yes
+3417,Hyperexpanded lungs consistent with COPD. Mild cardiomegaly. Mild degenerative changes of the thoracic spine. Aortic calcifications consistent with atherosclerotic disease.,No focal lung consolidation. COPD.,No
+3003,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+3993,Cardiomegaly/mild; Diaphragm/left/elevated,Borderline cardiomegaly without acute disease.,No
+3478,No acute findings.,Clear lungs.,Yes
+1338,No acute findings.,No active disease.,Yes
+3562,Patchy basilar atelectasis.,1. Low volume study without acute process.,No
+1223,Foreign body in the soft tissues of the left chest wall.,No evidence of active disease.,Yes
+30,No acute findings.,Negative acute cardiopulmonary abnormality.,Yes
+1342,NoMildly hyperinflated lungs with flattened posterior diaphragm.*,"Mildly hyperinflated lungs, air trapping versus inspiratory [REDACTED].",Yes
+2376,No acute findings.,Unremarkable radiographs of the chest.,Yes
+3666,Acute findings: right basal atelectasis with airspace disease and effusion suggestive of infection.,[REDACTED] onset right basal chest infection,Yes
+3222,No acute findings.,No acute cardiopulmonary findings.,Yes
+2304,No acute findings.,No acute cardiopulmonary findings.,Yes
+2859,"Rounded dense opacity in the lateral left midlung zone, most suggestive of a rounded pneumonia.",Opacity [REDACTED] representing left upper lobe pneumonia. Recommend followup radiographically until cleared to ensure that there is no underlying mass.,Yes
+80,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2799,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+794,No acute findings.,No acute cardiopulmonary process. .,Yes
+3548,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2759,No acute findings.,"1. No acute cardiopulmonary process. 2. Mild, age-indeterminate wedge [REDACTED] deformity of a midthoracic vertebral body.",No
+37,Opacity in right mid lung.,No acute disease.,Yes
+2909,Patchy airspace disease in the left lingula. Granulomatous mediastinal calcifications. Right chest catheter tip at SVC.,Patchy airspace disease in the lingula without evidence of effusion. Pneumonia is in the differential. A followup exam in 4 to 6 weeks should be considered to ensure resolution of this process.,No
+3701,No acute findings.,No active disease.,Yes
+403,No acute findings.,No acute cardiopulmonary findings.,Yes
+3062,Minimal blunting of the left costophrenic angle.,No acute pulmonary abnormalities.,Yes
+1172,No acute findings.,No acute cardiopulmonary findings.,Yes
+3360,Left basilar subsegmental atelectasis versus scar.,"No acute cardiopulmonary abnormality. Specifically, no evidence of active tuberculous process.",No
+3578,No acute findings.,No active disease.,Yes
+831,No acute findings.,"Low lung volumes, otherwise clear.",Yes
+787,No acute findings.,No acute cardiopulmonary finding.,Yes
+2123,Cardiomegaly; Pulmonary congestion; Tortuous aorta.,Cardiomegaly and pulmonary venous hypertension,No
+3976,No acute findings.,No acute cardiopulmonary process.,Yes
+3120,"Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.","1. No acute cardiopulmonary abnormalities. Specifically, no pneumothorax. 2. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.",No
+1213,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+865,No acute findings.,No acute cardiopulmonary findings.,Yes
+1187,"Minimally increased airspace opacities bilaterally, most prominent in the lung bases.","Minimally increased air space opacities bilaterally, most prominent in the lung bases. Findings are nonspecific, but may represent subsegmental atelectasis versus mild interstitial edema or an atypical infectious process.",No
+619,No acute findings.,"Cardiomegaly, however no acute cardiopulmonary findings.",Yes
+210,No acute findings.,No acute pulmonary disease.,Yes
+1120,No acute findings.,"1. Limited low lung volume exam. 2. Otherwise, no acute cardiopulmonary abnormality.",Yes
+3625,No acute findings.,No acute cardiopulmonary disease.,Yes
+1867,Minimal streaky bibasilar opacities. Blunted left costophrenic angle. Small left pleural effusion.,1. Mild cardiomegaly without pulmonary edema. 2. Minimal bibasal subsegmental atelectasis/scar. 3. Very small left pleural effusion.,Yes
+1336,No acute findings.,Stable cardiomegaly without acute cardiopulmonary disease.,Yes
+340,Cardiomegaly/moderate; Diaphragmatic Eventration; Density/heart,"Cardiomegaly, no acute pulmonary findings",No
+2647,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1415,No acute findings.,Normal chest,Yes
+211,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+742,Focal opacity in the medial right lung base.,"Abnormal opacity in the right lung base which may be compatible with pneumonia in the appropriate clinical setting. Recommend clinical correlation for infection and followup to resolution. Or, if clinical findings are not compatible with [REDACTED] may be of [REDACTED].",Yes
+2777,No acute findings.,No acute cardiopulmonary disease.,Yes
+1439,Opacity in the left lung base; Pulmonary Atelectasis in the left lung base.,Findings of COPD and left base focal atelectasis.,Yes
+2918,No acute findings.,No acute cardiopulmonary disease.,Yes
+432,No acute findings.,No acute cardiopulmonary process.,Yes
+1652,No acute findings.,1. Dextroscoliosis of the thoracic spine. 2.No evidence of acute bony abnormalities.,Yes
+2673,"Acute findings: Cardiomegaly, pulmonary venous engorgement, bibasilar interstitial infiltrates, pulmonary congestion, pulmonary edema, heart failure.",Developing heart failure with pulmonary venous engorgement and bibasilar pulmonary interstitial edema.,Yes
+2091,No acute findings.,No acute process.,Yes
+1319,No acute findings.,No evidence of active disease.,Yes
+3947,No acute findings.,No acute cardiopulmonary disease.,Yes
+1637,Cardiomegaly. Mild degenerative changes of the thoracic spine.,1. No acute radiographic cardiopulmonary process.,No
+701,"Acute or abnormal findings:  
+- Postsurgical and postradiation changes of the left lung  
+- Spiculated, hyperdense scar in the left upper thorax  
+- Loss of lung volume on the left  
+- Right lung hyperexpansion",Postsurgical and postradiation changes on the left with no acute abnormality.,No
+168,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1931,No acute findings.,No acute disease.,Yes
+717,No acute findings.,No acute disease.,Yes
+1919,"Bibasilar, right greater than left atelectasis/airspace disease.","Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis.",No
+551,No acute findings.,"1. No acute cardiopulmonary abnormality, findings compatible with emphysema.",Yes
+1015,"Streaky and patchy bibasilar opacities, triangular density projected over the heart on the lateral view.","Bibasilar opacities, right greater than left, features suggest a combination of consolidation and atelectasis",Yes
+2093,No acute findings.,No focal lung infiltrates.,Yes
+1310,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3568,No acute findings.,No acute cardiopulmonary finding.,Yes
+1647,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+235,"Mild diffuse bilateral interstitial opacities, mild pulmonary edema. Mild cardiomegaly. [REDACTED] opacities overlying the left lung base.","1. Left-sided biventricular cardiac pacemaker. Leads appear intact. No pneumothorax. 2. Cardiomegaly and mild interstitial pulmonary edema. 3. [REDACTED] opacities overlying the left lung base on the frontal view, possibly lingular atelectasis or infiltrate. No large pleural effusion.",Yes
+623,"Atherosclerotic calcifications of the aorta. Pleural based density in the right lung base, likely subpleural fat (stable).",No acute disease.,No
+3858,No acute findings.,No acute abnormality identified.,Yes
+2416,Mild cardiomegaly.,Heart size upper limits normal. Lungs are clear. No evidence of active tuberculosis. No change from prior exam.,Yes
+1531,No acute findings.,No acute findings,Yes
+652,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+707,No acute findings.,Normal chest,Yes
+3555,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+3158,Cardiomegaly; scattered opacities (scarring or atelectasis); elevated left hemidiaphragm.,1. Cardiomegaly without overt heart failure. 2. Continued elevation of the left hemidiaphragm. 3. Scattered [REDACTED] of left base scarring/atelectasis.,No
+1820,Eventration of the right hemidiaphragm.,No acute cardiopulmonary abnormality.,No
+2962,No acute findings.,Stable cardiomegaly with no focal airspace disease.,No
+1450,No acute findings.,Negative for acute abnormality.,Yes
+193,Degenerative changes in the thoracic spine.,No acute cardiopulmonary process,No
+3488,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1274,No acute findings.,No acute cardiopulmonary disease. .,Yes
+1581,"Right upper lobe lung nodules, largest measuring 12 mm.",Right upper lobe lung nodules. Recommend [REDACTED].,Yes
+1022,No acute findings.,No active disease.,Yes
+644,No acute findings.,No evidence of active pulmonary pneumonia on today's exam.,Yes
+3808,No acute findings.,No acute abnormality.,Yes
+667,"Low lung volumes, causing streaky bibasilar atelectasis and bronchovascular crowding. Mild degenerative changes of the thoracic spine.",1. Low lung volumes with subsequent bronchovascular crowding and bibasilar atelectasis. .,Yes
+769,No acute findings.,No acute cardiopulmonary findings.,Yes
+3011,Large hiatal hernia. Aortic atherosclerotic calcifications.,1. No acute pulmonary process. 2. Large hiatal hernia. .,No
+3086,Elevated right hemidiaphragm with nodular soft tissue contour. Degenerative changes in the thoracic spine.,"1. No acute cardiopulmonary abnormality. 2. Elevation of the right [REDACTED] diaphragm, containing liver.",No
+2963,No acute findings.,No acute cardiopulmonary process.,Yes
+1712,Bilateral lower lobe bronchial thickening consistent with bronchitis.,1. Bilateral lower lobe bronchitis.,Yes
+1095,Severe kyphotic deformity of the chest with prior fractures of thoracic vertebral bodies and sternum; multiple fractures involving upper thoracic vertebral bodies and a single upper lumbar vertebral body; right-sided chest catheter with distal tip in the upper right atrium.,1. No evidence of acute cardiopulmonary disease 2. Changes of acute kyphotic deformity and of the thorax as described above,No
+2986,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+683,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3010,No acute findings.,No acute cardiopulmonary findings.,Yes
+3285,No acute findings.,Negative chest .,Yes
+87,No acute findings.,No acute pulmonary disease.,Yes
+56,No acute findings.,No acute disease.,Yes
+1916,No acute findings.,1. No acute cardiopulmonary findings. 2. Unchanged chronic appearance of the left lung.,Yes
+2258,Prominent central and basilar interstitial markings. Mild hypoventilation.,"Prominent interstitial markings in the central lungs and bases which may be secondary to low lung volumes with bronchovascular crowding, differential considerations include interstitial infiltrates of inflammatory or infectious etiology and mild pulmonary edema. Clinical correlation is recommended.",No
+3150,Opacity in the left lower lobe; Pulmonary Atelectasis in the left lower lobe.,"Left base focal atelectasis, no infiltrates that would suggest active tuberculosis.",Yes
+3561,No acute findings.,Negative chest .,Yes
+2929,No acute findings.,No acute disease.,Yes
+2884,No acute findings.,No acute findings. .,Yes
+3020,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1411,No acute findings.,No acute cardiopulmonary process. .,Yes
+3134,No acute findings.,No acute cardiopulmonary disease,Yes
+671,No acute findings.,1. No acute pulmonary disease.,Yes
+3685,No acute findings.,No acute cardiopulmonary findings.,Yes
+3742,No acute findings.,No acute findings.,Yes
+1179,No acute findings.,1. No evidence of active disease.,Yes
+3297,Mild emphysematous changes.,No acute disease.,No
+3063,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2537,Right basal patchy opacity and bibasal atelectasis or scarring. Right apical calcified granuloma.,"1. Right basal acute airspace disease. Please correlate clinically for pneumonia. 2. Chronic interstitial pattern, may reflect COPD.",Yes
+3958,No acute findings.,No active disease.,Yes
+2806,No acute findings.,Heart size is normal lungs are clear. No edema or effusions.,Yes
+2680,No acute findings.,No acute pulmonary disease.,Yes
+3513,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2427,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2383,No acute findings.,Stable cardiomegaly without heart failure.,No
+3438,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2579,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+3603,No acute findings.,No acute preoperative findings,Yes
+2890,Small rounded radiopaque density within the posterior superficial subcutaneous fat representing projectile fragment.,1. No acute radiographic cardiopulmonary process.,No
+1563,No acute findings.,"Chronic lung disease, with no acute cardiopulmonary findings.",Yes
+3115,No acute findings.,No acute cardiopulmonary disease.,Yes
+3662,No acute findings.,Chest radiograph. 1. No acute radiographic cardiopulmonary process.,Yes
+1155,No acute findings.,1. Clear lungs. No radiographic evidence of tuberculosis. 2. Stable scoliosis [REDACTED]. .,Yes
+3176,No acute findings.,No active disease.,Yes
+3503,No acute findings.,No acute radiographic cardiopulmonary process.,Yes
+1208,No acute findings.,No acute cardiopulmonary finding.,Yes
+3930,No acute findings.,Hyperexpanded but clear lungs.,No
+941,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3936,No acute findings.,No acute cardiopulmonary findings,Yes
+2784,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1902,No acute findings.,1. No acute cardiopulmonary abnormalities.,Yes
+3778,No acute findings.,No acute findings.,Yes
+2238,No acute findings.,No acute disease.,Yes
+3057,Atherosclerotic calcification of the thoracic aorta.,No acute cardiopulmonary disease. .,No
+3407,No acute findings.,Postsurgical changes of CABG without acute cardiopulmonary abnormality.,Yes
+128,No acute findings.,1. Overall stable appearance of the chest suggesting pulmonary fibrosis.,No
+2140,No acute findings.,1. No acute pulmonary disease. 2. Possible old injury or developmental anomaly partially T12-L1.,Yes
+2426,No acute findings.,No acute cardiopulmonary finding.,Yes
+373,No acute findings.,No active disease.,Yes
+69,No acute findings.,No acute cardiopulmonary disease.,Yes
+2281,No acute findings.,Normal chest.,Yes
+3205,No acute findings.,No acute cardiopulmonary abnormalities. No visualized rib fractures.,Yes
+2903,No acute findings.,"Mildly hypoinflated, grossly clear lungs. .",No
+3899,No acute findings.,Chest 1. No acute cardiopulmonary findings. Abdomen 1. Nonspecific bowel [REDACTED] pattern without evidence of obstruction.,Yes
+796,No acute findings.,Negative for acute abnormality.,Yes
+3632,"Opacity in the left lung base, small left pleural effusion, left basilar atelectasis.",1. Small left pleural effusion.,Yes
+1864,Borderline cardiomegaly. Dense nodule in the right lower lobe.,"Borderline heart size, no acute pulmonary findings",Yes
+2528,No acute findings.,Lungs appear relatively clear on today's exam. No significant interval change since the prior study and [REDACTED].,Yes
+3099,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+3312,Patchy infiltrate in the right middle lobe. Tortuous aorta.,Right middle lobe infiltrate consistent with pneumonia.,Yes
+3678,Blunted costophrenic angles; accentuated interstitial markings.,Mild costophrenic [REDACTED] blunting suggesting [REDACTED] bilateral pleural effusions and/or thickening. No acute infiltrate.,No
+1731,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+685,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+965,No acute findings.,1. No acute cardiopulmonary disease,Yes
+1624,Cardiomegaly/mild; Calcinosis/mediastinum,"Mild cardiomegaly, no acute pulmonary findings",No
+797,Enlarged heart. Tortuous aorta.,1. Cardiomegaly without lung infiltrates.,No
+65,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+2381,No acute findings.,No acute preoperative findings.,Yes
+2172,Biapical fibronodular thickening/scarring. Hyperexpanded lungs.,Hyperexpanded lungs. Negative for acute abnormality.,No
+2699,No acute findings.,No acute cardiopulmonary disease.,Yes
+3477,No acute findings.,No acute disease.,Yes
+547,No acute findings.,No radiographic evidence of acute cardiopulmonary disease.,Yes
+2524,No acute findings.,No acute process.,Yes
+1840,Asymmetric opacity to left suprahilar chest. Findings may reflect focal airspace disease or adenopathy.,"1. Asymmetric left suprahilar opacity, consider focal airspace disease or adenopathy. Correlate clinically as to [REDACTED] or symptoms of infection. Recommend followup radiograph to document resolution.",Yes
+627,Prominence of the pulmonary vasculature.,Cardiomegaly and pulmonary vascular congestion.,No
+2230,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3745,No acute findings.,No acute cardiopulmonary findings.,Yes
+1242,No acute findings.,Chronic parenchymal changes [REDACTED] reflecting sequela of patient's known sarcoidosis. No acute disease.,Yes
+3991,No acute findings.,No acute preoperative findings.,Yes
+2805,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1034,No acute findings.,No active disease.,Yes
+3246,Prominent pulmonary arteries. Thoracic spondylosis.,No acute process.,No
+82,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3627,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3500,No acute findings.,1. Stable normal chest x-[REDACTED].,Yes
+2320,No acute findings.,No acute cardiopulmonary disease.,Yes
+509,No acute findings.,Interval improvement in aeration of left lung with interval reduction in size of left pleural effusion. Persistent patchy left lung airspace disease is noted. Stable left-sided chest tubes. .,No
+3319,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+2545,No acute findings.,Normal chest x-[REDACTED].,Yes
+1681,No acute findings.,No active disease.,Yes
+250,No acute findings.,No evidence of active disease.,Yes
+1271,No acute findings.,No acute cardiopulmonary disease.,Yes
+663,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+367,No acute findings.,Clear lungs.,Yes
+706,No acute findings.,No acute findings,Yes
+276,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3467,Calcification of the thoracic aorta.,No acute cardiopulmonary disease. No evidence of pneumonia.,No
+3240,Lungs are hyperinflated with flattening of the diaphragms and tapering of the distal pulmonary vasculature. Thoracic spondylosis.,Emphysema without superimposed pneumonia.,No
+1067,No acute findings.,No radiographic evidence of acute cardiopulmonary abnormality.,Yes
+1724,Mild hyperinflation with upper lobe lucency suggesting emphysema. No acute findings.,Emphysema.,No
+131,No acute findings.,No acute pulmonary disease.,Yes
+1670,No acute findings.,No active disease.,Yes
+2418,No acute findings.,1. No acute cardiopulmonary abnormalities. 2. No displaced rib fractures are seen. .,Yes
+1787,Mild granulomatous sequela.,No acute disease.,No
+1441,No acute findings.,No acute disease. Retrocardiac density [REDACTED] corresponding to known hiatal hernia.,Yes
+3366,No acute findings.,No active disease.,Yes
+552,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1225,No acute findings.,No acute abnormality identified.,Yes
+2151,Hyperinflated lungs with flattened diaphragm and increased retrosternal airspace. Mild spine dextrocurvature.,"Hyperinflated lungs, air trapping versus inspiratory [REDACTED].",No
+3982,No acute findings.,No acute cardiothoracic abnormality.,Yes
+3621,No acute findings.,[REDACTED] change. Hypoinflation with no visible active cardiopulmonary disease.,Yes
+2925,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+867,"Bilateral hilar fullness nonspecific in appearance, mild aortic ectasia/tortuosity, diaphragm flattening and relative apical lucencies suggestive of emphysema, irregular interstitial markings right greater than left, prominent left epicardial fat.","Borderline heart size and abnormal interstitial pulmonary pattern which may be compatible with chronic interstitial change, differential diagnosis is [REDACTED] and includes asymmetric pulmonary edema, inflammation, atypical infection, infiltrative process. Comparison with previous exams would be of [REDACTED]. Bilateral hilar fullness may indicate pulmonary hypertension and clinical correlation is recommended, differential diagnosis reactive lymphadenopathy, metastatic disease.",No
+2530,Prominent ascending aorta and tortuous descending thoracic aorta. Old left anterior 7th rib fracture.,This is [REDACTED] since the previous study. 1. Clear lungs. 2. Apparent old rib fractures in the left anterior chest.,No
+1238,No acute findings.,1. No evidence of active disease.,Yes
+2964,No acute findings.,No evidence of active disease.,Yes
+770,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1868,Small right pleural effusion. Small left pleural effusion. Infrahilar interstitial prominence.,Small bilateral pleural effusions and right infrahilar infiltrate versus bronchovascular crowding.,Yes
+423,Left subphrenic pneumoperitoneum. Bilateral moderate to large pleural effusions with bibasilar atelectasis/airspace disease. Low lung volumes.,1. Concern for left subphrenic free air. Verification with abdominal decubitus views is recommended for further evaluation. 2. Interval increase in size of the moderate to large bilateral pleural effusions with bibasilar atelectasis/airspace disease. 3. Left central venous catheter in unchanged position. 4. Interval placement of feeding tube the courses beneath the diaphragm and out of the [REDACTED]-of-view.,Yes
+162,No acute findings.,Normal chest,Yes
+1806,No acute findings.,No active disease.,Yes
+2904,No acute findings.,No acute findings,Yes
+1231,No acute findings.,No acute disease.,Yes
+3030,No acute findings.,There is no radiographic evidence of acute cardiopulmonary disease.,Yes
+428,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2747,Small pleural effusion.,Small bilateral pleural effusions.,No
+35,Hyperexpansion of the lungs with flattening of the hemidiaphragms. Multilevel degenerative changes of thoracic spine.,"Emphysema, however no acute cardiopulmonary finding.",No
+3325,No acute findings.,No acute disease.,Yes
+26,No acute findings.,No acute process.,Yes
+3672,Mild interstitial edema. Mild cardiomegaly.,Mild interstitial edema.,No
+1309,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1100,Heart is large. Bibasilar interstitial infiltrates. Bilateral costophrenic angle blunting. Pulmonary vascular engorgement.,Congestive heart failure with basilar pulmonary interstitial edema and bilateral pleural fluid.,Yes
+1314,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+817,Left upper lobe opacities.,1. No evidence of active tuberculosis. 2. [REDACTED] left upper lobe opacities. The appearance [REDACTED] subsegmental atelectasis or scarring.,No
+1363,No acute findings.,"Clear lungs, no focal airspace consolidation.",Yes
+822,"Bilateral lower lobe opacities, subsegmental atelectasis, and scarring. Hyperexpanded lungs. Minimal degenerative changes of the spine.",1. No acute findings. 2. Bibasilar subsegmental atelectasis or scarring. 3. Emphysema.,Yes
+492,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+800,"- Heart size is enlarged
+- Marked tortuosity of the thoracic aorta
+- Advanced degenerative changes of the glenohumeral joints bilaterally
+- Diffuse osteopenia of the thoracic spine with mid and lower thoracic deformities
+- Air-fluid level in the middle mediastinum, likely due to a large hiatal hernia","1. No acute thoracic abnormality. 2. Cardiomegaly with marked tortuosity of the thoracic aorta. 3. Probable large hiatal hernia. 4. Limited evaluation of the thoracic spine secondary to osteopenia, age-indeterminate [REDACTED] fracture deformities.",No
+2038,No acute findings.,No acute cardiopulmonary finding.,Yes
+538,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+51,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+102,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2052,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+3047,No acute findings.,No evidence of active disease.,Yes
+1877,No acute findings.,Normal chest,Yes
+659,Tortuous aorta. Low lung volumes. Moderate degenerative disc disease in the midthoracic spine.,No acute cardiopulmonary findings.,No
+332,"Streaky retrocardiac left lower lobe opacities, possible pneumonia.","Streaky left retrocardiac airspace opacities, in the correct clinical setting this could represent a pneumonia.",Yes
+3126,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+2403,Stable left basilar atelectasis versus scarring.,Stable left basilar atelectasis versus scarring. No acute cardiopulmonary abnormalities.,Yes
+1113,No acute findings.,1. Emphysematous changes. 2. Resolution of prior right midlung infiltrate.,No
+3790,Elevation of the right hemidiaphragm. Patchy opacities right base. Blunting of the bilateral costophrenic angles.,Right lower lobe airspace disease. .,Yes
+2439,Lung hyperinflation; biapical scarring.,Emphysema without acute disease.,No
+624,No acute findings.,Emphysema without superimposed pneumonia.,No
+3519,Large left lower lobe opacity; large left pleural effusion.,Large left lower lobe opacity [REDACTED] represents a large layering pleural effusion. Right lung is clear.,Yes
+3265,No acute findings.,No acute cardiopulmonary findings.,Yes
+2379,No acute findings.,Stable chronic lung changes without acute cardiopulmonary abnormality.,Yes
+1141,No acute findings.,No active disease.,Yes
+3146,No acute findings.,No acute cardiopulmonary process.,Yes
+3187,"M appears that the provided radiology report does not contain any acute findings, but rather chronic or stable postoperative changes. The findings mentioned are:
+
+1. Mild cardiomegaly (stable)
+2. Mild pulmonary congestion
+3. Small bilateral pleural effusions (stable)
+4. Postoperative changes from sternotomy and myocardial revascularization
+
+Since none of these are described as new or acute, the appropriate response would be:
+
+No acute findings.","Mild pulmonary vascular congestion, with [REDACTED] [REDACTED] bilateral effusions. Constellation findings is most compatible with congestive heart failure.",No
+3403,No acute findings.,Negative for acute abnormality.,Yes
+3475,No acute findings.,Negative chest .,Yes
+1218,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+3943,No acute findings.,Negative chest.,Yes
+1243,"Cardiac silhouette is enlarged. Bibasilar opacity, left greater than right.",1. Left pleural effusion with adjacent atelectasis. [REDACTED] right effusion is also present. 2. Cardiomegaly without overt edema.,No
+3214,Marked interval increase in heart size compatible with pericardial effusion. Small right pleural effusion.,Large pericardial effusion.,Yes
+3635,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+750,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2614,Prominent right paratracheal soft tissues representing adenopathy.,1. Clear lungs. 2. Prominent right paratracheal opacities [REDACTED] representing adenopathy.,No
+2589,No acute findings.,No acute radiographic cardiopulmonary process.,Yes
+960,No acute findings.,No acute findings. Please note that fractures may not be demonstrated and consider additional imaging as clinically warranted.,Yes
+3624,No acute findings.,No acute cardiopulmonary findings.,Yes
+2940,No acute findings.,Normal chest.,Yes
+2183,Moderate cardiomegaly. Bibasilar and perihilar interstitial opacities. Mild interstitial pulmonary edema.,Cardiomegaly and mild interstitial pulmonary edema.,Yes
+1997,No acute findings.,Normal chest,Yes
+1393,"A few bandlike opacities are present at the lateral left base, likely representing scarring or atelectasis.",1. [REDACTED] opacities at the lateral left base. The appearance [REDACTED] atelectasis.,No
+263,No acute findings.,No acute cardiopulmonary finding.,Yes
+637,No acute findings.,No active disease.,Yes
+1771,No acute findings.,No active disease.,Yes
+2867,No acute findings.,1. No acute cardiopulmonary abnormalities. 2. Emphysema and chronic bony abnormalities are unchanged from prior exams. .,Yes
+804,"Increased bilateral predominantly perihilar interstitial opacity, consistent with pulmonary edema.","1. Increased bilateral interstitial opacity, [REDACTED] consistent with mild interstitial edema.",Yes
+1719,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3537,No acute findings.,No active disease.,Yes
+3935,"1. Left PICC line has moved outward since previous study.
+2. Blunting of the right costophrenic angle, possibly representing small pleural effusion or pleural reaction.",1. Blunting of the right costophrenic [REDACTED]. This may represent pleural effusion or pleural reaction. 2. Clearing of left base airspace disease. 3. Outward [REDACTED] of PICC line. Tip now projects over upper SVC.,Yes
+1527,"1. Heart size slightly upper normal.  
+2. Atherosclerotic calcifications within the aorta.  
+3. Lungs are hyperexpanded with flattening of the diaphragms consistent with emphysematous change.  
+4. Degenerative changes of the spine.",1. Emphysematous change without acute radiographic cardiopulmonary process.,No
+2059,Right lower lobe patchy opacities. Mild degenerative changes of the thoracic spine.,"Patchy right lower lobe opacities, [REDACTED] infectious infiltrate.",Yes
+936,No acute findings.,No acute disease.,Yes
+3806,Moderate thoracolumbar scoliosis.,No acute disease.,No
+1984,Again visualized is a wedge-shaped [REDACTED] fracture of T12.,1. No acute cardiopulmonary abnormality. 2. Wedge-shaped [REDACTED] fracture of T12.,Yes
+957,No acute findings.,No acute cardiopulmonary findings.,Yes
+3156,No acute findings.,"No acute cardiopulmonary abnormality.. Specifically, no evidence of active tuberculous process.",Yes
+3783,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2392,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+321,"Acute or abnormal findings: Opacities in the left lung, subsegmental atelectasis.",No acute findings. Left mid lung subsegmental atelectasis.,No
+3746,No acute findings.,Interval removal of [REDACTED] stent without acute cardiopulmonary abnormality.,Yes
+611,No acute findings.,"1. Pulmonary hypoinflation. Otherwise, no acute intrathoracic abnormality.",No
+612,Persistent bibasilar opacities concerning for atelectasis and/or infiltrate. Stable cardiomegaly.,Stable cardiomegaly and persistent minimal bibasilar atelectasis.,No
+2668,No acute findings.,No acute disease.,Yes
+949,"Focal contour abnormality at the level of the inferior posterior mediastinum, may reflect focal aneurysm of the descending thoracic aorta. Calcified right hilar lymph node.","1. No acute cardiopulmonary disease. 2. Focal convexity of the left inferior posterior mediastinum, may reflect focal aneurysm of the descending thoracic aorta. This has been present and without significant change since at [REDACTED] [REDACTED]. Nonemergent chest CT may be useful.",No
+1368,No acute findings.,No acute disease.,Yes
+410,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+1348,"Fracture of the left anterior 7th rib and possible left anterior 6th rib, of uncertain acuity. Corticated deformity of the right anterior 7th rib, likely remote fracture. Mild basilar bronchovascular crowding/atelectasis.","1. Suspected fractures of the left anterior 6th and 7th ribs, of uncertain acuity. Correlate with [REDACTED] tenderness. 2. Low lung volumes with mild basilar atelectasis, left greater than right. .",Yes
+1510,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1543,Large hiatal hernia.,1. No acute cardiopulmonary process. 2. Large hiatal hernia.,Yes
+3959,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+2930,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3095,Mild cardiomegaly; diffusely increased bilateral interstitial opacities.,Findings concerning for interstitial edema or infection.,Yes
+765,No acute findings.,1. No evidence of active disease.,Yes
+3828,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1366,No acute findings.,No acute cardiopulmonary finding.,Yes
+3801,"1. Heart is enlarged with unfolding of the aorta.  
+2. Prominence of the interstitial markings with fluid in the fissures consistent with interstitial edema.  
+3. Multilevel degenerative spine changes.",1. Interstitial pulmonary edema. 2. Cardiomegaly.,Yes
+3452,No acute findings.,No acute cardiopulmonary disease.,Yes
+3702,Expansile changes within the right clavicle consistent with multiple myeloma. No acute findings.,Clear lungs.,No
+2661,Mild cardiomegaly. Low lung volumes.,Mild cardiomegaly without heart failure.,No
+3166,Nodular densities consistent with chronic granulomatous disease.,Negative for acute cardiopulmonary disease.,No
+1434,No acute findings.,No active disease.,Yes
+3227,No acute findings.,No acute cardiopulmonary process.,Yes
+200,No acute findings.,1. No evidence of active disease.,Yes
+3331,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2305,No acute findings.,No acute disease.,Yes
+1207,No acute findings.,No acute cardiopulmonary disease,Yes
+950,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2269,No acute findings.,No acute disease.,Yes
+1199,No acute findings.,No radiographic evidence of active cardiopulmonary disease.,Yes
+2176,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2072,"Interval increased bilateral interstitial opacities, probable left lower lobe infiltrate.","Stable, nonenlarged cardiomediastinal silhouette. Left upper lobe calcified granuloma noted. Epigastric and right upper quadrant postsurgical changes. Interval increased bilateral interstitial opacities, with probable left lower lobe infiltrate.",Yes
+3908,No acute findings.,No acute cardiopulmonary disease.,Yes
+1879,No acute findings.,"No acute cardiopulmonary findings. Specifically, no radiographic evidence of tuberculosis.",Yes
+3677,Aorta is tortuous.,No active disease.,No
+2997,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+261,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+429,No acute findings.,No acute cardiopulmonary findings. .,Yes
+3722,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+646,No acute findings.,Normal chest exam.,Yes
+3050,No acute findings.,No active disease.,Yes
+2860,Tortuous and ectatic aorta.,No acute radiographic cardiopulmonary process.,No
+1923,Hyperinflated lungs. Cardiomegaly.,Cardiomegaly without acute cardiopulmonary abnormality.,No
+411,Minimal patchy opacity in left base which may represent atelectasis or scarring.,Minimal left basilar opacity most [REDACTED] representing atelectasis or chronic scarring.,No
+2740,No acute findings.,No acute cardiopulmonary abnormalities. .,Yes
+914,No acute findings.,Negative for acute abnormality.,Yes
+1667,Irregularity of the 7th posterior right rib with underlying pleural thickening.,"1. No evidence of acute cardiopulmonary process. 2. Irregularity of the posterior right 7th rib with underlying pleural thickening. This may be related to [REDACTED] [REDACTED], however, if there is no known history, consider comparison with prior studies if available [REDACTED] of the chest for further evaluation",Yes
+2540,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+572,No acute findings.,No active disease.,Yes
+3576,No acute findings.,No acute cardiopulmonary process.,Yes
+3163,No acute findings.,No acute disease.,Yes
+581,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+2415,"Acute or abnormal findings:  
+- Mild cardiomegaly  
+- Lungs hypoinflated with mildly elevated left hemidiaphragm  
+- Patchy opacity in the left lung base (atelectasis and/or possible infiltrate)  
+- Increased markings throughout  
+- Underlying emphysematous changes","Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks. IMPRESSION: Exam: CHEST 2V FRONTAL/LATERAL Date: [REDACTED], [REDACTED] [REDACTED] PM Comparison: CT chest [REDACTED] History: Shortness of breath FINDINGS: The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate [REDACTED] motion. Underlying emphysematous changes are identified. IMPRESSION: Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks.",Yes
+252,No acute findings.,No acute cardiopulmonary disease.,Yes
+1595,Cardiomegaly; Opacity in the right midlung.,Persistent cardiomegaly. Right midlung scar. No visible acute failure or pneumonia.,No
+1405,No acute findings.,No acute pulmonary disease.,Yes
+764,No acute findings.,Negative.,Yes
+270,No acute findings.,No acute cardiopulmonary findings. .,Yes
+427,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2353,No acute findings.,Normal chest,Yes
+3918,No acute findings.,"Hyperinflated lungs, air trapping versus inspiratory [REDACTED].",No
+325,No acute findings.,Clear lungs.,Yes
+3819,"- Markedly enlarged cardiac silhouette (cardiomegaly/severe)  
+- Aortic vascular calcification  
+- Severe pericardial effusion",Continued severe cardiomegaly and/or pericardial effusion. No acute pulmonary disease process identified.,Yes
+1139,Increased interstitial opacities. Cardiomegaly.,Cardiomegaly and increased interstitial opacities [REDACTED] represent interstitial edema.,No
+1070,Abnormal separation of the right [REDACTED] [REDACTED]. Corticated bony density over the lateral aspect of the clavicle. Minimal endplate degenerative changes of the midthoracic spine.,"1. There is abnormal separation of right [REDACTED] [REDACTED], question very acute versus chronic injury. Correlate for focal pain. If indicated consider dedicated right shoulder films. 2. No acute cortical artery disease.",Yes
+1795,Moderate cardiomegaly. Mild degenerative disc disease of the thoracic spine.,1. Cardiomegaly without radiographic evidence of heart failure. 2. No acute cardiopulmonary abnormality.,No
+3956,No acute findings.,No acute disease,Yes
+477,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3072,No acute findings.,"1. Extensive pulmonary bronchiectasis and scarring from cystic fibrosis, not significantly [REDACTED] from prior. 2. Left-sided medication injection [REDACTED] has its tip projecting over the cavoatrial junction. .",No
+1788,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+3118,Nodular densities consistent with chronic granulomatous disease.,Negative for acute cardiopulmonary disease.,No
+1220,Hyperexpansion and hyperlucency of both lungs with flattening of the diaphragm consistent with chronic emphysematous lung disease. Blunting of costophrenic recesses bilaterally may represent small effusions or pleural thickening/scar.,Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.,No
+2684,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+3206,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2254,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+998,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+9,Apparent interval increase in low density convexity at the left cardiophrenic angle. Calcified granuloma in the right upper lobe.,"Increased size of density in the left cardiophrenic [REDACTED]. Primary differential considerations include increased size of prominent epicardial fat, pericardial mass, pleural mass or cardiac aneurysm. CT chest with contrast is recommended. These findings and recommendations were discussed [REDACTED]. [REDACTED] by Dr. [REDACTED] [REDACTED] telephone at [REDACTED] p.m. [REDACTED]/[REDACTED]. Dr. [REDACTED]<[REDACTED]>technologist receipt of the results.",No
+2606,No acute findings.,1. No acute pulmonary disease. 2. Stable moderate hiatal hernia.,Yes
+1777,Patchy right perihilar/upper lobe opacities. Exaggerated thoracic kyphosis.,"Right upper lobe pneumonia. Consideration may be given for followup chest x-[REDACTED], following appropriate therapy.",Yes
+1281,No acute findings.,No acute cardiopulmonary process. .,Yes
+487,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1402,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+1212,No acute findings.,No acute disease.,Yes
+3749,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2067,No acute findings.,No acute cardiopulmonary findings.,Yes
+3837,No acute findings.,No acute cardiopulmonary process.,Yes
+3183,No acute findings.,No acute disease.,Yes
+240,No acute findings.,1. Chest. No change right upper lobe scar. No acute disease. 2. Lumbosacral spine. Multiple levels of advanced degenerative disc disease and [REDACTED] arthritis.,Yes
+1428,No acute findings.,1. No acute bony findings.,Yes
+1346,No acute findings.,1. Right chest [REDACTED] catheter tip at cavoatrial junction. 2. Grossly clear lungs.,No
+948,Cardiomegaly,Borderline cardiomegaly without acute disease.,No
+3777,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+1599,Atherosclerotic calcifications within the aorta; thoracic spine osteophytes.,1. No evidence of active cardiopulmonary disease.,No
+333,No acute findings.,1. No acute pulmonary abnormality.,Yes
+1465,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+274,No acute findings.,"1. No acute cardiopulmonary process. 2., Mild, age-indeterminate wedge [REDACTED] deformity of a midthoracic vertebral body.",Yes
+3271,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+1115,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3257,No acute findings.,No acute process.,Yes
+113,Two subcentimeter hyperdense nodular opacities within the right lung.,1. No acute cardiopulmonary disease.,No
+3313,No acute findings.,Clear lungs.,Yes
+3420,No acute findings.,No acute cardiopulmonary findings.,Yes
+3785,"Mildly prominent perihilar opacities, possibly due to bronchovascular crowding.",No acute cardiopulmonary disease.,No
+3789,No acute findings.,Stable appearance of the chest. No acute cardiopulmonary findings.,Yes
+2971,No acute findings.,No acute cardiopulmonary findings. .,Yes
+3646,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+3810,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+3445,No acute findings.,1. Negative for acute cardiopulmonary findings.,Yes
+3833,No acute findings.,"1. No acute cardiopulmonary process identified. Specifically, no radiographic evidence of aspiration. 2. Stable emphysematous changes, right costophrenic [REDACTED] pleural thickening, and bilateral calcified granulomas/lymph [REDACTED].",Yes
+2030,"1. Hyperinflation of the lungs  
+2. Small calcification posteriorly in the right lung (may be pleural)  
+3. Atherosclerotic changes of the aorta  
+4. Arthritic changes of the skeletal structures",COPD. No acute pulmonary disease.,No
+123,Mild cardiomegaly. Tortuous aorta. Soft tissue density in the medial right apex.,Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend [REDACTED] [REDACTED] chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed [REDACTED]. [REDACTED] in the [REDACTED] department at [REDACTED] a.m. [REDACTED]/[REDACTED].,No
+2989,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3854,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+1077,No acute findings.,No active disease.,Yes
+2788,No acute findings.,No acute cardiopulmonary findings.,Yes
+3866,Patchy airspace disease in the right middle lobe. Subtle opacities in the lingula. Multilobar pneumonia.,Patchy right middle lobe and lingular airspace disease compatible with multilobar pneumonia. .,Yes
+3680,"Streaky bibasilar opacities, atelectasis. Vague opacity in the right midlung. Scattered calcified granulomas.","Vague opacity in the right midlung, this could reflect a small focus of atelectasis or infiltrate. Bibasilar airspace opacities, [REDACTED] atelectasis.",Yes
+508,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3266,No acute findings.,No acute cardiopulmonary findings.,Yes
+879,No acute findings.,Negative chest x-[REDACTED].,Yes
+269,No acute findings.,No acute cardiopulmonary disease. .,Yes
+1471,Lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. Mild increased lung markings due to chronic changes. Moderate degenerative changes of the thoracic spine. Calcified left perihilar granuloma redemonstrated.,1. Findings consistent with emphysema with interstitial thickening. This could be due to edema superimposed on emphysema or pneumonitis or fibrosis. [REDACTED] chest if warranted clinically given recent onset of dyspnea. .,No
+1267,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3408,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3076,Borderline cardiomegaly. Low lung volumes with bronchovascular crowding.,"Low lung volumes, otherwise, no definite acute findings.",No
+3111,Stable mild bilateral interstitial opacities which may represent mild pulmonary edema. Stable cardiomegaly.,Stable cardiomegaly and mild bilateral interstitial opacities which represent mild pulmonary edema.,No
+2347,Atherosclerosis of the aortic [REDACTED]; T-spine osteophytes.,Negative for acute abnormality.,No
+1550,No acute findings.,No acute cardiopulmonary process.,Yes
+2029,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1816,No acute findings.,"1. Evidence of prior granulomatous disease, stable. No acute abnormality.",Yes
+2033,Mild tortuosity of the descending thoracic aorta. Mild degenerative endplate changes in the thoracic spine.,No acute cardiopulmonary findings.,No
+1136,No acute findings.,No acute cardiopulmonary process.,Yes
+1739,Cortical irregularity along the anterior margin of the sternum; focal retrosternal hypodense convexity; tortuous thoracic aorta; streaky opacity within the left lung base representing atelectasis; thoracic kyphosis; hyperinflation of the lungs.,"Core irregularity along the anterior margin of the sternum may represent an age-indeterminate nondisplaced fracture. In addition, focal lentiform hyperdensity along the [REDACTED] aspect of the sternum may represent callus formation. Left basilar atelectasis otherwise clear lungs.",No
+1583,No acute findings.,No acute cardiopulmonary findings,Yes
+1236,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2443,No acute findings.,1. No evidence of active disease.,Yes
+1886,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3863,Cardiomediastinal silhouette is enlarged. Cardiomegaly.,"Cardiomegaly, but no focal consolidation.",No
+2365,No acute findings.,No evidence of active disease.,Yes
+542,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1250,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+3569,No acute findings.,"Low lung volumes, otherwise no acute cardiopulmonary abnormality.",Yes
+3224,No acute findings.,Negative for acute abnormality.,Yes
+1880,8mm nodule in the left lateral midlung; mild degenerative changes of the spine.,Left midlung pulmonary nodule. Comparison to a previous [REDACTED] would be most helpful alternatively a noncontrast chest CT could be performed in the nonemergent setting for further characterization. No acute disease.,No
+3059,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1116,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2783,No acute findings.,Stable chest radiograph with no acute or progressive abnormality. There is no suggestion of enlargement of the known right retrohilar pulmonary nodule or [REDACTED] pulmonary nodularity.,Yes
+2509,No acute findings.,No acute cardiopulmonary abnormality. Chronic changes consistent with emphysema.,Yes
+254,No acute findings.,No acute cardiopulmonary finding.,Yes
+14,No acute findings.,No acute findings,Yes
+3872,No acute findings.,No acute process.,Yes
+1063,Minimal opacity in the left lung base representing atelectasis.,Left base atelectasis. Lungs otherwise clear. .,Yes
+494,[REDACTED] opacities left lung base may represent atelectasis versus scarring.,"Atelectasis versus scar left lung base. Otherwise unremarkable. [REDACTED] [REDACTED] for the opportunity to assist in the care of your patient. If there are any questions about this examination please [REDACTED]. [REDACTED], [REDACTED] certified radiologist, at [REDACTED].",Yes
+1050,No acute findings.,"No acute cardiopulmonary abnormality. Mild nonspecific prominence of mediastinum, consider repeat CXR [REDACTED] if any concern for vascular process.",Yes
+2103,No acute findings.,1. No evidence of active disease.,Yes
+3550,"Prominent contour of the ascending aorta, consistent with ectasia. Minimal degenerative changes of the thoracic spine.",No acute cardiopulmonary abnormality.,No
+1454,No acute findings.,No acute disease.,Yes
+3190,"Vague right suprahilar density with elevation of the fissure, most likely mild subsegmental atelectasis (superimposed infection cannot be entirely excluded).",Right upper lobe subsegmental atelectasis. No evidence of heart failure.,Yes
+1922,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+874,No acute findings.,No acute cardiopulmonary findings. .,Yes
+3516,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3117,No acute findings.,Normal chest.,Yes
+2161,No acute findings.,"Borderline heart size. Otherwise, no acute cardiopulmonary abnormality.",Yes
+1489,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2224,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+2372,Bandlike opacities in the right lung suggesting atelectasis. Low lung volumes.,Bandlike opacities in the right lung. Appearance [REDACTED] atelectasis.,Yes
+594,Streaky opacities in both lung bases (may represent atelectasis or scarring). Borderline cardiomegaly. T-spine osteophytes. Loss of disc height of a midthoracic vertebral body.,"1. Borderline cardiomegaly. 2. Age-indeterminate, [REDACTED] chronic, [REDACTED] deformity in the midthoracic spine.",No
+758,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+700,Calcified granuloma in the right lower lung. Osteopenia with mild degenerative changes of the thoracic spine.,Stable appearance of the chest. No acute findings.,No
+3437,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+1528,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2876,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1229,Hyperinflation of the lungs; atherosclerotic changes of the aorta.,COPD. No acute pulmonary disease.,No
+3520,Minimal streaky atelectasis the left lung base. Thoracic spondylosis.,No acute cardiopulmonary abnormality.,No
+607,No acute findings.,No acute cardiopulmonary process.,Yes
+1962,Stable right lower lung granuloma.,No acute cardiopulmonary abnormality. .,No
+909,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+674,No acute findings.,"No acute abnormality. Low volumes [REDACTED] [REDACTED] for the opportunity to assist in the care of your patient. If there are any questions about this examination please [REDACTED]. [REDACTED] [REDACTED], [REDACTED] certified radiologist, at [REDACTED]. .",Yes
+3904,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3628,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+2225,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2662,No acute findings.,No acute disease.,Yes
+3135,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1678,"- Right-sided pleural effusion  
+- Elevation of right hemidiaphragm  
+- Vague opacities in the right upper lobe (possible rib lesions or pulmonary nodules)  
+- Drainage catheter overlying the right upper quadrant","1. Redemonstration of elevated right hemidiaphragm with associated basilar airspace disease and effusion. 2. Ill-defined [REDACTED] right upper lung opacities, possibly related to superimposed rib lesions versus developing pulmonary nodules. Further imaging [REDACTED] of the chest may be indicated.",Yes
+2111,"Patchy airspace disease in the right lower lobe, severe emphysema, calcified aorta, spondylosis.","Patchy airspace disease on the lateral view, probably within the right lower lobe, [REDACTED] a pneumonia superimposed on [REDACTED] severe underlying emphysema. Recommend following this process to resolution.",Yes
+145,Right costophrenic angle blunted. Left lower lobe patchy infiltrate.,Large right pleural effusion and patchy left lower lobe airspace disease.,Yes
+1722,No acute findings.,1. Hyperexpansion without acute pulmonary abnormality.,Yes
+2502,Focal area of opacity in the right midlung zone; prominence of pulmonary markings; small bilateral pleural effusions.,1. Focal opacity in the right midlung zone worrisome for pneumonitis. 2. Mild pulmonary vascular congestion.,Yes
+262,No acute findings.,No evidence of active disease.,Yes
+968,No acute findings.,No acute cardiopulmonary findings,Yes
+3878,Infiltrate in the right lower lobe. Mild cardiomegaly. Thoracic spondylosis.,Right lower lobe infiltrate. In the appropriate clinical setting this appearance is compatible with pneumonia. Consider followup PA and lateral chest x-[REDACTED] in 4-6 weeks to ensure resolution and exclude an underlying mass.,Yes
+419,No acute findings.,No acute preoperative findings.,Yes
+118,Focal airspace disease in the right middle lobe.,Focal airspace disease in the right middle lobe. This is most concerning for pneumonia. Recommend follow up to ensure resolution.,Yes
+3517,"Aortic atherosclerotic calcifications. Right IJ central venous catheter tip in region of mid SVC. 2 AICD leads, one tip in right atrium and one tip in right ventricle.",There is no evidence of acute cardiopulmonary disease. .,No
+648,Calcified granuloma in the right lower lobe. Mild lung hypoinflation.,No acute findings. .,No
+3113,No acute findings.,1. No acute pulmonary disease. No evidence for apical mass.,Yes
+3322,No acute findings.,No active disease.,Yes
+304,No acute findings.,Lung lines without evidence of acute cardiopulmonary process.,Yes
+3692,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+3070,No acute findings.,No acute cardiopulmonary findings.,Yes
+3496,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3189,No acute findings.,No acute disease.,Yes
+1378,No acute findings.,Negative for acute abnormality.,Yes
+2409,Interstitial opacities at both lung bases. Calcified granulomas.,Stable groundglass and interstitial markings at the lung bases. Overall this is not [REDACTED] to represent a significant change from [REDACTED].,No
+1608,No acute findings.,"No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT of the thorax can be performed to identify a small nodule. Correlation with prior radiographs would be helpful to identify the location of the previously described nodule.",Yes
+3207,Interval enlargement in the cardiac silhouette. Cardiomegaly.,1. No acute radiographic cardiopulmonary process. 2. Interval development of cardiomegaly.,No
+2648,Borderline cardiomegaly. Right upper lobe calcified granuloma.,"Low lung volumes, otherwise clear.",No
+2207,Patchy right base airspace disease. Tortuous thoracic aorta. Mild degenerative changes throughout the thoracic spine.,Right lower lobe pneumonia.,Yes
+2475,Cardiomegaly/mild; Aorta tortuous.,[REDACTED] change. No active cardiopulmonary disease.,No
+3617,No acute findings.,No acute cardiopulmonary disease.,Yes
+3925,No acute findings.,No acute pulmonary disease.,Yes
+3108,Airspace disease in the right lower lobe.,The right lower lobe pneumonia,Yes
+3083,No acute findings.,1. No acute pulmonary abnormality.,Yes
+534,Left perihilar scarring in the upper lobe. Streaky opacities in the retrocardiac region reflecting mild subsegmental atelectasis.,Mild left-sided scarring/subsegmental atelectasis. No definite infiltrate.,No
+540,Mild streaky opacities in the left lung base.,"Mild streaky left basilar airspace disease, [REDACTED] atelectasis. .",Yes
+2982,No acute findings.,No acute disease.,Yes
+1094,Left lower lobe atelectasis.,No focal lung consolidation.,Yes
+1254,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2608,Consolidation and costophrenic angle blunting in both lower lobes; bilateral pleural effusion.,Persistent bibasilar airspace disease and bilateral pleural fluid.,Yes
+2897,No acute findings.,No active disease.,Yes
+449,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+3727,No acute findings.,Hypoinflation with no visible active cardiopulmonary disease.,Yes
+2796,No acute findings.,No acute process.,Yes
+2425,No acute findings.,Hypoinflation with no visible active cardiopulmonary disease.,Yes
+1097,No acute findings.,1. No acute cardiopulmonary abnormality. 2. Mild age indeterminate anterior wedging at the T11 level.,Yes
+1509,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2077,"1. Right jugular catheter present with tip overlying the lower SVC.  
+2. Curvilinear density projecting over the upper chest (external on lateral projection).  
+3. Scar/subsegmental atelectasis in the lingula.  
+4. Mild degenerative changes of the spine.",No acute cardiopulmonary findings.,No
+1197,"Bilateral prominent lung vascularity medially, unchanged.",1. No acute pulmonary disease.,No
+3422,No acute findings.,Normal chest,Yes
+2060,Prominence of the left hilum which may represent adenopathy or engorged vasculature.,Prominence of the left hilum may be secondary to adenopathy or enlarged pulmonary vasculature. Chest CT with contrast may be helpful for further clarification.,No
+778,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3620,"Minimal atelectasis or scar in the left lung base. Small calcified granuloma in the left upper lobe. No acute, displaced rib fractures.","1. Minimal left basilar atelectasis or scar. 2. No acute, displaced rib fractures demonstrated. .",No
+2053,No acute findings.,No acute cardiopulmonary disease.,Yes
+3365,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3148,Small left pleural effusion. Mild cardiomegaly. Mildly low lung volumes.,1. Small left pleural effusion. 2. Stable mild cardiomegaly.,No
+3064,Patchy airspace disease in the right lower lobe.,"Patchy, right lower lobe airspace disease. This [REDACTED] represents pneumonia. Recommend followup radiographs to ensure resolution.",Yes
+1953,No acute findings.,No radiographic evidence of acute cardiopulmonary disease.,Yes
+999,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+636,Granulomatous disease in the bilateral lungs. Subsegmental atelectasis in the left lower lung.,Subsegmental atelectasis in the left lower lobe.,No
+1852,No acute findings.,No acute cardiopulmonary disease,Yes
+2551,No acute findings.,No acute cardiopulmonary process.,Yes
+2380,Elevated left hemidiaphragm. Eventration of the right hemidiaphragm.,1. Continued elevation of the left hemidiaphragm. 2. No evidence of active disease.,No
+2694,No acute findings.,No acute cardiopulmonary disease.,Yes
+1461,No acute findings.,No acute disease.,Yes
+1832,Cardiomegaly. Left base streaky opacities.,"1. Streaky left basilar opacities, [REDACTED] atelectasis versus infiltrate. 2. Cardiomegaly, stable.",Yes
+1522,No acute findings.,No acute cardiopulmonary disease.,Yes
+2957,"Mild cardiomegaly, increased pulmonary vascularity, mild elevation of the right hemidiaphragm, air space disease/atelectasis in the right lung base, streaky opacity in the left base, blunted costophrenic angles.",1. Cardiomegaly and pulmonary vascular congestion. 2. Eventration of right hemidiaphragm with basilar atelectasis.,Yes
+2852,No acute findings.,1. No acute bony abnormalities. 2. No acute cardiopulmonary abnormalities.,Yes
+1903,No acute findings.,No acute disease.,Yes
+1911,No acute findings.,1. No active disease.,Yes
+3450,No acute findings.,No acute disease.,Yes
+280,No acute findings.,No active disease.,Yes
+2100,"Questionable thin-walled cavitary lesion in the right lower lobe, only seen on the AP view and may represent artifact. Atherosclerotic calcification of the aorta.",1. No acute cardiopulmonary findings.,No
+1500,No acute findings.,No acute pulmonary findings.,Yes
+2611,No acute findings.,1. No acute cardiopulmonary findings.,Yes
+2744,No acute findings.,Normal chest,Yes
+194,Small amount of left basilar airspace disease.,"Left basilar atelectasis and/or infiltrate, with no radiographic evidence of tuberculosis.",Yes
+2203,Old right rib fractures.,1. No acute cardiopulmonary disease.,No
+297,Mild opacity projected over the left lung base with partial obscuration of the lateral left hemidiaphragm. Mild bronchovascular crowding and hypoinflation.,"Low lung volumes with mild, [REDACTED] left basilar opacity, atelectasis versus infiltrate. .",Yes
+2751,No acute findings.,No acute cardiopulmonary findings.,Yes
+2317,No acute findings.,No active disease.,Yes
+1098,Hyperinflated lungs with coarse interstitial markings compatible with obstructive pulmonary disease and emphysema. Chronic pleural-parenchymal scarring within the lung bases.,Emphysema.,No
+1676,Nodular densities projecting over right anterior fifth and six ribs. Aortic atherosclerotic calcifications. Emphysematous changes.,Nodular densities projecting over right 5th and 6th ribs may healing rib fracture; [REDACTED] recommended to rule-out underlying pulmonary nodule. [REDACTED] level Veriphy message was sent [REDACTED]. [REDACTED] regarding possible lung nodules at [REDACTED] hours [REDACTED]/[REDACTED].,No
+1412,No acute findings.,No acute cardiopulmonary disease,Yes
+1718,Increased interstitial opacities non-specific. Question edema or atypical infection?,"Heart size normal. Stable mediastinal silhouette. No lobar consolidation, large pleural effusion or pneumothorax. Mild increased reticular interstitial opacity.",No
+1662,No acute findings.,1. No acute cardiopulmonary findings.,Yes
+3262,No acute findings.,No acute cardiopulmonary process.,Yes
+2007,No acute findings.,1. No evidence of pneumonia or post primary tuberculosis infection 2. No acute cardiopulmonary disease,Yes
+2298,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3196,No acute findings.,No active disease.,Yes
+2398,"Mild cardiomegaly. Low lung volumes with elevated hemidiaphragms, greater on the right.",Cardiomegaly with elevated right hemidiaphragms and no acute findings.,No
+795,No acute findings.,Normal chest No evidence of tuberculosis.,Yes
+49,No acute findings.,No acute cardiopulmonary disease.,Yes
+3540,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+1497,"Ill-defined opacity in the lingula, increased since previous study. Mild mid-thoracic spine deformity.",1. Ill-defined opacity in the lingula. Increased since the previous study. May represent increased atelectasis or scarring.,Yes
+1606,No acute findings.,No acute disease.,Yes
+287,No acute findings.,No acute abnormality.,Yes
+1341,No acute findings.,No evidence of active disease.,Yes
+2181,Moderately enlarged heart. Suspected right lower lobe airspace opacity. Fracture of superior sternotomy.,Possible right lower lobe pneumonia. Cardiomegaly,Yes
+1304,No acute findings.,Normal chest,Yes
+306,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+1329,Acute or abnormal findings: Two pulmonary nodules (13 mm in right upper lobe and 16 mm in left lower lobe).,At [REDACTED] 2 right lung pulmonary nodules concerning for<BR>metastatic disease,Yes
+987,No acute findings.,No active disease.,Yes
+3097,No acute findings.,1. No evidence of active disease.,Yes
+3177,Hyperinflation of the lungs. Mild arthritic changes of the spine.,Hyperinflation consistent with COPD. No acute pulmonary disease identified.,No
+2102,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1965,"Bilateral interstitial opacities, increased since the previous exam. Moderate cardiomegaly.",Moderate cardiomegaly with pulmonary vascular congestion early interstitial edema.,Yes
+400,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1554,No acute findings.,No acute disease.,Yes
+885,No acute findings.,No acute cardiopulmonary abnormality. Postsurgical changes as described above. .,Yes
+1775,No acute findings.,1. No acute pulmonary abnormality.,Yes
+561,No acute findings.,No acute disease.,Yes
+2367,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1985,No acute findings.,1. No acute pulmonary disease.,Yes
+3636,No acute findings.,Chest radiograph. Stable emphysematous changes without acute cardiopulmonary abnormality.,Yes
+929,Opacity in the right lower lobe.,Findings of COPD with right lung base focal atelectasis. No evidence for failure or pneumonia.,Yes
+3429,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2866,No acute findings.,Normal chest,Yes
+3216,No acute findings.,Normal chest radiograph.,Yes
+1781,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3341,No acute findings.,Normal chest,Yes
+1347,No acute findings.,Negative for acute abnormality.,Yes
+3616,Atherosclerotic aorta; Emphysematous changes with increased interstitial markings.,"Emphysema with increased lung markings markings, possibly superimposed chronic lung disease/fibrosis.",No
+2838,No acute findings.,Negative chest.,Yes
+1668,Discrete 1.4 cm nodule within the anterior segment of the right lower lobe. Additional nodular opacities consistent with chronic granulomatous disease. Right unilateral nipple ring.,"1. Negative for acute cardiopulmonary disease. 2. 1.4 cm right lower lobe nodule, [REDACTED] calcified granulomas disease. If patient high [REDACTED] for pulmonary malignancy, consider cross-sectional imaging to verify.",Yes
+1658,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+737,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+407,No acute findings.,Clear lungs.,Yes
+3054,No acute findings.,1. No evidence of active disease.,Yes
+1978,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1159,No acute findings.,No acute cardiopulmonary process.,Yes
+3446,No acute findings.,Negative chest x-[REDACTED].,Yes
+1607,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+1076,Left lower lobe consolidation; small bilateral pleural effusion.,1. Question of left lower lobe pneumonia and/or pleural effusion. 2. Borderline heart size with mild central vascular congestive changes.,Yes
+2491,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+744,Right upper lobe area of dense opacity in the medial right apex.,1. Right upper lobe opacity which appears improved as compared to previous [REDACTED] scan.,Yes
+2441,"Mild blunting of the right costophrenic angle which may represent a small right pleural effusion. Old, healed left rib fractures.","Possible small right pleural effusion, without focal consolidation or pneumothorax.",Yes
+519,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+725,No acute findings.,No acute cardiopulmonary process.,Yes
+3244,Mild streaky bibasilar opacities.,"1. No evidence of pulmonary tuberculosis. 2. Low lung volumes with minimal streaky basilar airspace disease, [REDACTED] atelectasis. 3. Right paratracheal prominence [REDACTED] represents tortuous [REDACTED]. Comparison with prior imaging studies could confirm this if available. .",No
+2931,Opacity in the left lower lobe and left costodiaphragmatic angle (could represent scarring or atelectasis).,1. No acute cardiopulmonary abnormalities. .,No
+1896,No acute findings.,"No acute cardiopulmonary abnormality. Specifically, no radiographically apparent etiology for hemoptysis.",Yes
+1660,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+3400,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+1391,No acute findings.,"Low lung volumes, otherwise clear.",No
+1841,No acute findings.,No active disease.,Yes
+414,No acute findings.,No acute process.,Yes
+720,No acute findings.,No acute process.,Yes
+2821,No acute findings.,No acute cardiopulmonary findings.,Yes
+2231,Possible subtle increased opacity in right apex versus technique.,Possible subtle increased opacity in right apex otherwise unremarkable appearance of lung [REDACTED],No
+2527,No acute findings.,1. No acute cardiopulmonary process. 2. Bilateral scapula appear unremarkable.,Yes
+66,No acute findings.,1. Chest. No active disease. 2. Lumbar spine negative.,Yes
+1682,"Lobulated contour to the right paratracheal stripe, possibly consistent with a vascular structure or lymph [REDACTED].","1. Lobulated contour of the right paratracheal stripe. This may represent a vascular structure or enlarged lymph node and could be evaluated further with chest CT. Otherwise, no acute intrathoracic abnormality.",Yes
+1987,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2941,No acute findings.,1. Clear lungs.,Yes
+3337,Calcified pleural plaque in the right subpulmonic area.,1. Chest. No active disease. 2. Left and right knees negative.,No
+2503,Atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures.,No acute pulmonary disease.,No
+3192,"Mild fullness of the left hilum; large hiatal hernia, increased from prior exam.","1. Increased left hilar fullness. This may represent superimposed [REDACTED], adenopathy cannot be excluded on this exam. If there is clinical concern, suggest reference to prior exam or CT chest. 2. Large hiatal hernia, increased in size from prior exam.",No
+2411,Mild cardiomegaly. Mild bronchovascular crowding.,"Mild cardiomegaly, no acute pulmonary findings",No
+2167,Hyperexpansion with mild flattening of diaphragm. Possible emphysema. Retained contrast within the renal collecting system.,1. No acute cardiopulmonary disease. 2. Emphysematous changes 3. Retained contrast within the renal collecting [REDACTED].,No
+1956,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3753,Minimal left basilar atelectasis. Small bilateral pulmonary nodules.,"1. No focal pulmonary consolidation or effusion. Minimal left basilar atelectasis. 2. Bilateral pulmonary nodules. These were not present on the prior study and may represent sequela of infection, but could represent neoplastic process. Correlation with history of primary malignancy is recommended. Further evaluation [REDACTED] of the thorax could be performed, if clinically indicated.",No
+658,No acute findings.,No acute cardiopulmonary disease,Yes
+834,No acute findings.,No evidence of acute cardiopulmonary disease.,Yes
+1705,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+496,No acute findings.,1. Chest. No active disease. 2. Left knee. Advanced degenerative joint disease.,No
+1300,No acute findings.,No acute cardiopulmonary disease.,Yes
+761,No acute findings.,[REDACTED] change. Hypoinflation with no visible active cardiopulmonary disease.,Yes
+86,No acute findings.,No acute cardiopulmonary findings.,Yes
+1742,Cardiomegaly/mild; Scoliosis,"Cardiomegaly, no acute pulmonary findings",No
+2047,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1594,No acute findings.,No acute cardiopulmonary finding.,Yes
+1191,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+729,"1.7 cm nodular opacity within the right hilum, which may represent partially calcified granuloma or lymphadenopathy.  
+2. Scattered calcified granulomas.","1. No acute cardiopulmonary abnormality. 2. 1.7 cm nodular opacity within the right hilum, there is [REDACTED] large lymph node or partially calcified granuloma. Followup [REDACTED] radiograph to assess stability may be of benefit.",No
+2842,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+650,"- Moderate right-sided pleural effusion, small left-sided pleural effusion  
+- Mixed nodular interstitial opacities distributed through bilateral lungs, right greater than left  
+- Cardiomediastinal silhouette mildly enlarged  
+- Obliquely oriented left humeral neck fracture, transverse, with 5 mm displacement of the distal fragment  
+- Large hiatal hernia",1. Moderate right-sided pleural effusion. 2. No cavitary lung changes to suggest active tuberculosis. The airspace opacities in right upper lobe seen on [REDACTED] chest are not visualized on this study which could be due to difference in technique and patient rotation. 3. Cardiomegaly with prominent aorta which may be accentuated due to AP view. 4. Left humerus fracture. .,No
+2919,Significantly enlarged heart. Prominent pulmonary vascularity.,Cardiomegaly with central pulmonary vascular congestion. No [REDACTED] edema.,Yes
+3545,Worsening bilateral interstitial opacities in the lung bases. Lung hypoinflation. Calcifications of the thoracic aorta.,1. Worsening bibasilar subpleural interstitial opacities suggestive of interstitial lung disease. High-resolution [REDACTED] would be recommended to evaluate these findings 2. No evidence of acute pneumonia,No
+2069,No acute findings.,Normal chest,Yes
+1180,No acute findings.,No evidence of active disease.,Yes
+2406,No acute findings.,No change. No visible active cardiopulmonary disease.,Yes
+1707,No acute findings.,"No acute or active cardiac, pulmonary or pleural disease.",Yes
+3655,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+3978,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2191,Left basilar retrocardiac opacity. Borderline cardiomegaly.,Findings consistent with left base airspace disease.,Yes
+513,"Right atrial enlargement, left atrial enlargement, cardiomegaly, mild pulmonary hyperexpansion, mild left apical pleural thickening, moderate degenerative changes of the thoracic spine.",1. Right and left atrial enlargement with cardiomegaly. No acute pulmonary abnormality demonstrated. .,No
+593,Mildly enlarged heart. Tortuous aorta. Aortic calcifications. Extensive degenerative changes of the thoracic spine.,No acute radiographic cardiopulmonary process.,No
+1307,Lucency involving the lateral aspect of the left clavicle. Metastatic disease cannot be excluded.,1.Lucency in the left lateral clavicle near the acromioclavicular joint. Metastatic disease is possible. 2. Clear lungs,Yes
+692,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+1630,Poorly defined lung nodule in the right upper lobe measuring approximately 7 mm.,7 mm right upper lobe lung nodule. Recommend followup characterization with [REDACTED].,No
+763,No acute findings.,No evidence of active disease.,Yes
+2197,Opacity in the right upper lobe; mild pleural thickening.,[REDACTED] opacities in the right upper lobe anterior segment which may represent atelectasis or infiltrate.,Yes
+2222,Round opacity measuring 2 cm in diameter within the posterior mediastinum.,1. Round opacity measuring 2 cm in diameter within the posterior mediastinum. Recommend further evaluation of this nodule with chest CT with IV contrast.,No
+3098,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3105,No acute findings.,No acute abnormality.,Yes
+776,"Prominent coarse interstitial markings throughout the lungs, focal streaky bibasilar opacities, bibasilar atelectasis.",1. No acute cardiopulmonary abnormality.,No
+741,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+2916,No acute findings.,No acute cardiopulmonary findings,Yes
+3251,No acute findings.,Stable radiographic view of chest.,Yes
+563,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+2391,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3413,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+1600,No acute findings.,Clear lungs.,Yes
+2790,No acute findings.,1. No acute cardiopulmonary abnormalities. Stable mild interstitial prominence.,Yes
+2939,No acute findings.,No evidence of active TB.,Yes
+3797,Left lower lobe air space opacity with atelectasis.,1. Left lower lobe air space opacities without significant change.,No
+1011,No acute findings.,No acute disease.,Yes
+1927,No acute findings.,Negative chest x-[REDACTED].,Yes
+621,No acute findings.,No acute cardiopulmonary disease.,Yes
+2677,Bullet in the soft tissues of the inferior right chest wall. Mild tortuosity of the thoracic aorta.,No acute cardiopulmonary abnormality.,Yes
+57,Prominent diffuse bilateral interstitial opacities.,"1. No focal airspace consolidation. 2. Prominent bilateral interstitial opacities, stable from prior radiographs.",No
+1013,No acute findings.,Stable mild cardiomegaly without acute cardiopulmonary abnormality.,Yes
+1499,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1272,No acute findings.,No evidence of active disease.,Yes
+847,Cardiomegaly/mild; Lung/hypoinflation; Bronchovascular crowding,No acute cardiopulmonary abnormalities.,No
+1725,Right basilar opacity with blunting of the costophrenic angle. Possible interface along the left hemidiaphragm.,"1. Right basilar opacity with associated blunting of costophrenic [REDACTED] on lateral view may represent small pleural effusion, atelectasis, and/or consolidation. 2. Interface at the left hemidiaphragm may represent artifact however further evaluation with right lateral decubitus films would better evaluate.",Yes
+3909,Right chest catheter tip in the low SVC. Right granulomatous disease.,No acute findings.,No
+3287,"Acute or abnormal findings:  
+1. 2.5 cm vague nodular density in the right mid lung, probably within the middle lobe.  
+2. Subtle left retrocardiac density with obscuration of aortic contour.",Right midlung and left basilar airspace densities. The most recent study is not available for comparison. Recommend further evaluation with [REDACTED].,Yes
+1912,No acute findings.,No acute findings,Yes
+3305,Right PICC with tip overlying the right brachiocephalic vein. Enlarged cardiac silhouette. Streaky bibasilar opacities. Elevated right hemidiaphragm. Degenerative changes of the spine. Bilateral surgical clips.,1. Streaky bibasilar opacities; the appearance [REDACTED] subsegmental atelectasis. 2. Enlarged cardiac silhouette. 3. Mildly elevated right hemidiaphragm.,Yes
+3498,Minimally displaced fracture of right rib 4; small pleural fluid.,1. Chest. Right 4th rib fracture. No cardiopulmonary injury. No pleural air collection. 2. Right shoulder negative. 3. Right humerus negative.,No
+2942,No acute findings.,Interval postsurgical changes of [REDACTED] sternotomy without acute cardiopulmonary abnormality.,Yes
+2994,No acute findings.,No acute pulmonary disease.,Yes
+1894,Subtle increased opacity of right mid hemithorax.,No acute disease.,Yes
+2754,No acute findings.,No acute cardiopulmonary disease,Yes
+1830,No acute findings.,Negative for acute abnormality.,Yes
+1464,No acute findings.,No acute cardiopulmonary disease. Evidence of previous granulomatous infection.,Yes
+1481,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2865,No acute findings.,No acute cardiopulmonary findings.,Yes
+1422,Wedge-shaped opacity in the right upper lobe. Patchy opacification in the left upper lobe.,"Interval development of bilateral upper lobe consolidation, right greater than left, [REDACTED] representing pneumonia.. Followup imaging to document resolution is recommended.",Yes
+3439,No acute findings.,No acute findings.,Yes
+3502,Broken sternotomy wires with a fragment possibly within the left posterior pleural space. Cardiomegaly and central pulmonary vascular prominence. Relative elevation of the left hemidiaphragm.,"Cardiomegaly with surgical changes of CABG, with numerous broken [REDACTED] sternotomy [REDACTED] and a sternotomy [REDACTED] fragment noted [REDACTED] in the posterior left pleural space.",Yes
+2200,Bibasilar atelectasis versus scarring. Low lung volumes.,Low lung volumes. Bibasilar atelectasis versus scarring.,No
+349,Heart size is enlarged. The aorta is tortuous.,1. Cardiomegaly,Yes
+1745,No acute findings.,No acute thoracic [REDACTED].,Yes
+1875,No acute findings.,No acute cardiopulmonary process,Yes
+1131,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+2351,No acute findings.,No acute cardiopulmonary disease.,Yes
+1776,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1593,Moderate sized right loculated pleural effusion with right lower lobe atelectasis. Atherosclerotic changes throughout the aorta.,1. Moderate right pleural effusion.,Yes
+3141,No acute findings.,Normal chest radiograph,Yes
+409,Interstitial opacities consistent with pulmonary fibrosis. Calcified granulomas at the left greater than right hilum and in the pretracheal region.,"Interstitial markings bilaterally, pulmonary fibrosis, unchanged. .",No
+2081,No acute findings.,No active pulmonary disease.,Yes
+757,No acute findings.,No acute abnormality.,Yes
+3922,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1689,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+785,No acute findings.,No acute cardiopulmonary findings. .,Yes
+3577,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3524,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1517,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+1403,Mild bilateral basilar atelectasis.,"Bibasilar atelectasis. Otherwise, no acute abnormality",Yes
+3013,Cardiac silhouette is mildly enlarged.,"Probable mild cardiomegaly, without evidence of acute failure. No focal airspace disease. .",No
+1534,Aortic atherosclerosis. Hyperexpanded lungs. Right perihilar/midlung density. Streaky bibasilar opacities. Left upper lobe nodular opacity. Midthoracic vertebral fracture.,"1. No focal air space consolidation. 2. Nodular opacity at the left apex may be exaggerated by overlapping bone silhouettes. [REDACTED] chest may provide further evaluation, if warranted.",No
+3169,Hyperlucent hyperinflated lungs with flattened diaphragms. Granulomas. Minimal apical capping slightly greater at the left. Small sized heart.,"Appearance suggests emphysema. Apical capping, slightly greater at the left. Recommend comparison with prior films or followup chest x-[REDACTED] films to confirm stability and approximately 4 months in [REDACTED]. Critical result notification documented through Primordial.",No
+2062,"Left lower lobe airspace disease, likely atelectasis. Low lung volumes.","1. Right subclavian catheter, distal tip in the region of the subclavian vein at the level of clavicular head. 2. Low lung volumes, with left lower lung atelectasis. .",Yes
+2336,No acute findings.,Hyperinflated but clear lungs.,No
+932,No acute findings.,1. Negative for acute cardiopulmonary findings.,Yes
+3582,No acute findings.,No acute cardiopulmonary findings.,Yes
+167,No acute findings.,No active disease.,Yes
+934,"Diffuse bilateral interstitial opacities, mild subpleural edema, mild blunting of both posterior costophrenic sulci (possible effusions).",1. Heart failure with pulmonary edema.,Yes
+2301,Cardiomegaly,Stable cardiomegaly without gross evidence for failure or pneumonia.,No
+2715,"- 9 mm right lower lobe pulmonary nodule, not seen on prior exams  
+- Posttraumatic deformities of the right posterior ribs",1. Right lower lobe pulmonary nodule. [REDACTED] for better characterization. 2. No acute pulmonary process.,No
+842,No acute findings.,No acute cardiopulmonary findings.,Yes
+2501,Lungs are hyperinflated with flattening of the diaphragms consistent with emphysematous change. Multilevel degenerative changes of the spine are noted.,1. Emphysematous change without evidence of acute cardiopulmonary process.,No
+2292,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2174,No acute findings.,Unremarkable radiographs of the chest.,Yes
+1720,"- Very low lung volumes with central bronchovascular crowding  
+- Elevation of the left hemidiaphragm  
+- Streaky opacities in the lung bases (may represent atelectasis)  
+- Scoliosis and exaggeration of the thoracic kyphosis",1. Very low lung volumes without definite acute cardiopulmonary finding. .,No
+3654,6 mm nodular opacity in the right upper lobe.,"1. No acute traumatic findings. 2. Right upper lobe 6 mm nodular opacity. This may be artifactual secondary to overlapping vascular structures. However, true pulmonary nodule is a possibility. This appears [REDACTED] from [REDACTED]. Consider further evaluation with dedicated PA and lateral chest radiographs [REDACTED] the patient is [REDACTED].",No
+1577,No acute findings.,Low lung volumes without acute cardiopulmonary findings.,Yes
+726,Prominent right perihilar density consistent with lymphadenopathy. TIPS noted.,"1. No acute abnormality of the chest. 2. Right hilar prominence, corresponding to lymphadenopathy partially demonstrated [REDACTED] abdomen and pelvis [REDACTED], [REDACTED]. Consider [REDACTED] of the chest for further evaluation. .",No
+476,Calcifications of the aortic [REDACTED].,No active disease.,No
+1703,No acute findings.,"Low lung volumes, no acute cardiopulmonary findings.",Yes
+1685,Hyperinflated lungs with mildly flattened posterior diaphragm.,"Hyperinflated lungs, air trapping versus inspiratory [REDACTED].",No
+2617,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3253,No acute findings.,No acute cardiopulmonary disease.,Yes
+2370,Consolidation and atelectasis in the right lower lobe. Blunted right costophrenic angle.,Left lower lobe airspace disease consistent with pneumonia. Associated right pleural effusion.,No
+580,Atherosclerotic calcifications of the aortic [REDACTED].,No acute disease.,No
+402,No acute findings.,No active disease.,Yes
+2587,Acute kyphosis at the thoracolumbar junction.,No acute pulmonary findings.,Yes
+3041,No acute findings.,Normal chest,Yes
+928,No acute findings.,No acute disease.,Yes
+3286,"Acute or abnormal findings:  
+- Low lung volumes  
+- Cardiomegaly  
+- Engorged pulmonary vasculature  
+- Opacity in the left midlung (lingula)  
+- Pulmonary congestion",Hypoinflation with cardiomegaly and pulmonary venous hypertension. Left mid lung focal atelectasis.,Yes
+355,No acute findings.,Chronic interstitial and bullous disease. No acute findings.,Yes
+3268,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+3729,No acute findings.,1. Chest. No radiographic evidence of acute cardiopulmonary abnormality. 2. Abdomen. Nonobstructive bowel [REDACTED] pattern.,Yes
+780,No acute findings.,Clear lungs. No acute cardiopulmonary findings.,Yes
+1400,No acute findings.,No acute disease.,Yes
+1473,No acute findings.,No acute cardiopulmonary process.,Yes
+2412,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2165,"Interval development of bibasilar opacities (right base likely atelectasis, left base possibly early pneumonia or atelectasis). Low lung volumes.",1. Low lung volumes. 2. [REDACTED] [REDACTED] opacities. Right base appears to represent atelectasis. Left base could be atelectasis or pneumonia.,Yes
+2544,No acute findings.,1. Stable cardiomegaly without evidence for acute pulmonary process.,Yes
+2690,No acute findings.,No acute cardiopulmonary disease.,Yes
+99,Radiopaque foreign body overlying left chest.,No acute abnormality.,Yes
+2968,Right paratracheal mass.,"Right paratracheal mass, possibly lymphadenopathy. If there are no previous chest x-[REDACTED] from elsewhere are [REDACTED] scan with contrast [REDACTED] be of further [REDACTED]. Dr. [REDACTED] [REDACTED] I discussed these findings in the [REDACTED] Department approximately [REDACTED] hours [REDACTED], [REDACTED].",No
+1112,"Widening of the mediastinum, moderate cardiomegaly, enlarged central pulmonary vessels (correlate for pulmonary vascular congestion).","1. Moderate increase in size of the cardiac silhouette. Unclear whether this is secondary to cardiomegaly or pericardial effusion. 2. Pulmonary vascular congestion. 3. Widened mediastinum. Maybe secondary to prominent mediastinal fat or tortuous [REDACTED]. However, adenopathy, or mass is not excluded. CT of the chest with contrast is recommended for further evaluation of these findings.",Yes
+1135,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+994,No acute findings.,Negative chest .,Yes
+3721,"Streaky opacity in the left lung base, possible focal atelectasis.",Left lower lobe atelectasis otherwise no acute cardiopulmonary disease.,Yes
+3856,No acute findings.,Normal chest xray.,Yes
+3793,Left base opacity. Tortuous and dilated aorta. Chronic interstitial markings.,Left basilar airspace disease.,Yes
+1870,Marked cardiomegaly. Questionable dilation of the pulmonary arteries. Low lung volumes. Prominent interstitial markings. Elevated right hemidiaphragm.,1. Marked cardiomegaly. 2. Low lung volumes.,No
+342,Mild cardiomegaly. Stable left upper lobe calcified granuloma. Mild tortuosity of the descending thoracic aorta.,1. No acute pulmonary findings. 2. Mild cardiomegaly.,No
+2549,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1653,No acute findings.,"Stable pacemaker generator within the left chest with 2 distal leads terminating in the right atrium and right ventricle, also in stable position. No pneumothorax.",No
+709,Fracture-dislocation of the right shoulder. Bone demineralization. Scoliosis which is possibly positional. Aortic vascular calcifications.,Clear lungs. Fracture-dislocation of the proximal right shoulder .,Yes
+3726,No acute findings.,Normal chest,Yes
+1082,No acute findings.,Stable cardiomegaly with clear lungs.,Yes
+1833,No acute findings.,Minimal small area scarring of the left base.,No
+2423,No acute findings.,No acute disease.,Yes
+1306,No acute findings.,No evidence of acute cardiopulmonary process or significant interval change.,Yes
+1290,"Acute or abnormal findings:  
+- 22 x 14 mm calcified nodule in the left lower lobe  
+- Moderate hiatal hernia",1. No acute cardiopulmonary disease. 2. Calcified left paraesophageal versus intrapulmonary lymph node. 3. Moderate hiatus hernia.,No
+2808,No acute findings.,Clear lungs.,Yes
+1900,Aorta is calcified and tortuous. Scattered calcified granulomas throughout both lungs. Mild degenerative changes of the thoracic spine.,1. Stable appearance of the chest. No acute process.,No
+970,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+3284,No acute findings.,1. No evidence of active disease.,Yes
+1184,Bibasilar atelectasis. No acute bony abnormalities.,No acute cardiopulmonary findings.,Yes
+1979,No acute findings.,There is no radiographic evidence of acute cardiopulmonary disease.,Yes
+22,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+576,Persistent right pleural effusion with adjacent atelectasis. Severe degenerative changes of the right shoulder.,1. Right pleural effusion with adjacent atelectasis. 2. No definite findings of pneumonia.,No
+1339,Small 3.3 mm right-sided pneumothorax.,1. Small 3.3 mm right-sided pneumothorax.,Yes
+1782,Mildly displaced fracture of the mid right clavicle.,Mildly displaced fracture of the mid right clavicle. No acute pulmonary findings.,Yes
+3152,No acute findings.,"1. No acute findings. 2. Emphysema. 3. Scattered [REDACTED] of scarring, most notably in the left upper lobe.",Yes
+2786,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2567,No acute findings.,No acute disease.,Yes
+2857,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2122,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2408,"Streaky bibasilar opacities decreased from previous, possibly subsegmental atelectasis and/or scar. Severe L1 fracture. Slight interval increase in loss of T11 and mild to moderate anterior loss of T10. Degenerative changes of the spine. Abdominal aortic stent.","1. No acute cardiopulmonary finding. 2. Mild to moderate T10 vertebral body anterior [REDACTED] deformity, [REDACTED] from [REDACTED]. Slight interval increase in [REDACTED] loss of T11. Unchanged severe L1 [REDACTED] deformity. If further imaging characterization is needed, recommend MRI. Findings will be conveyed to the ordering physician [REDACTED] the Primordial communication [REDACTED].",Yes
+2208,Persistent cardiomegaly.,Stable cardiomegaly without acute abnormality.,No
+3495,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2695,No acute findings.,No acute process.,Yes
+2015,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1196,Airspace disease within the left lower lung. Atherosclerotic aorta. Surgical clips overlying the right breast.,[REDACTED] left lower lobe airspace disease.,Yes
+3221,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+421,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+3637,No acute findings.,No acute findings,Yes
+2560,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1551,No acute findings.,1. No acute intrathoracic abnormality.,Yes
+1770,No acute findings.,Right foot 1. No evidence of the bony erosions or osseous infection. Chest radiograph 1. No acute cardiopulmonary abnormalities.,Yes
+2363,Right basilar air space opacity.,Right middle lobe and lower lobe pneumonia. Followup radiographs in 8-12 weeks after appropriate therapy are indicated to exclude an underlying abnormality.,Yes
+1844,Hyperexpansion of the lungs with flattening of the diaphragm.,No cardiopulmonary abnormality.,Yes
+2334,Patchy left basal airspace opacity. Bilateral small effusions.,1. Left base opacity may represent early infection or atelectasis. Recommend followup PA and lateral chest x-[REDACTED] in 6 weeks to ensure resolution. 2. Bilateral small pleural effusions.,Yes
+404,Foreign Bodies/abdomen; Technical Quality of Image Unsatisfactory,Limited exam secondary to artifact within the upper abdomen (this does not represent free intra-abdominal [REDACTED]). Recommend repeat chest x-[REDACTED].,No
+1168,No acute findings.,No active disease.,Yes
+2820,No acute findings.,No acute disease.,Yes
+877,Prominent interstitial markings (possible interstitial edema). Mild blunting of the posterior sulcus (possible small effusion).,"1. Mildly prominent interstitial markings, which could represent interstitial edema. 2. Mild blunting of the posterior sulcus, which could represent a small effusion.",Yes
+3714,No acute findings.,No acute cardiopulmonary disease.,Yes
+2097,No acute findings.,No acute cardiopulmonary abnormality seen on chest x-[REDACTED]. No pneumothorax.,Yes
+133,No acute findings.,No acute disease.,Yes
+2892,Calcified granulomas within the left lower lobe.,No acute cardiopulmonary disease.,No
+1470,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1357,No acute findings.,Stable cardiomegaly without acute cardiopulmonary abnormality..,Yes
+2350,Mild degenerative change thoracic spine.,No acute cardiopulmonary abnormality. .,No
+1444,Healing fracture of the left posterolateral 7th rib. Deformity of the 8th vertebral body.,No acute cardiopulmonary disease.,No
+1425,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+100,No acute findings.,No active disease.,Yes
+3006,"Cardiomegaly, tortuous thoracic aorta, eventration of the right hemidiaphragm.",No evidence of active disease.,No
+784,Tortuous calcified aorta. Scattered granulomas. Kyphotic degenerated osteopenic thoracic spine. Probable posterior pleural effusions. Mild pulmonary atelectasis.,Probable [REDACTED] posterior recess effusions with mild basilar atelectasis. No lobar pneumonia.,No
+1203,Patchy opacity in the left upper lobe. Lungs are hyperinflated.,[REDACTED] left upper lobe infiltrate.,Yes
+153,Small right pleural effusion.,[REDACTED] [REDACTED] right pleural effusion.,Yes
+3168,No acute findings.,1. No acute cardiopulmonary abnormality. 2. Interval development of healing left sided rib fractures.,Yes
+2713,"Acute or abnormal findings:  
+- Aorta is calcified and tortuous.  
+- Low lung volumes.  
+- Elevation of the right hemidiaphragm.  
+- Minimal streaky opacities in the lung bases, likely subsegmental atelectasis.",1. Low lung volume study with minimal bibasilar atelectasis. Stable chest.,No
+1054,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2572,No acute findings.,Clear lungs.,Yes
+359,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+451,"Marked narrowing of the right hip joint space with osteophyte formation, sclerosis, and subchondral cyst formation. Near-complete obliteration of the left hip joint space with severe subchondral sclerosis and cystic formation. Calcified mediastinal lymph nodes.",1.Severe arthritic changes in both hips left worse than right. 2. Possible COPD but no acute pulmonary disease.,No
+179,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1558,No acute findings.,1. No acute cardiopulmonary abnormality.,Yes
+3761,Mild cardiomegaly. Tortuous aorta. Mild degenerative changes of the thoracic spine.,Chronic changes without acute process,No
+3052,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+498,"Large medial right upper lobe mass lesion, measuring approximately 5.8 cm x 6.0 cm in diameter. Degenerative changes thoracic spine.",Large medial right upper lobe mass highly concerning for primary lung cancer. [REDACTED] chest with intravenous contrast for further evaluation. [REDACTED] [REDACTED] [REDACTED]. [REDACTED]'s [REDACTED] was notified of this result at XXXXPM [REDACTED]/[REDACTED] and accepted receipt. Results were faxed. .,No
+577,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+1435,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+2071,"Acute or abnormal findings:  
+1. 1 cm nodular density in the right midlung (new since prior study)  
+2. Pulmonary congestion (bilateral)  
+3. Small calcified left hilar lymph nodes",1. [REDACTED] 1 [REDACTED] nodular density seen on the PA view only projecting in the right midlung. Recommend noncontrasted enhanced [REDACTED] for evaluation of this nodule. Does this patient have known [REDACTED] factors for malignancy? 2. Somewhat indistinct pulmonary interstitium possibly reflecting underlying pulmonary sarcoidosis,Yes
+2335,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1436,Haziness in the right lung apex. 1.7 cm nodular density in the medial right lung base.,"1. Haziness in the right lung apex and questionable right middle lobe pulmonary nodule. These may be explained by overlapping structures, [REDACTED] chest would be useful for further evaluation. 2. Emphysematous changes.",Yes
+3069,Right upper lobe airspace disease consistent with pneumonia.,Right upper lobe pneumonia.,Yes
+3237,Cardiomegaly; Minimal streaky airspace opacities in the lower lobes.,1. Cardiomegaly without pulmonary edema. 2. Minimal bibasilar opacities which may reflect atelectasis or infiltrate.,Yes
+2949,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1633,No acute findings.,Stable chest without acute cardiopulmonary abnormality.,Yes
+1468,No acute findings.,No radiographic evidence of acute cardiopulmonary disease.,Yes
+1913,No acute findings.,No acute cardiopulmonary finding.,Yes
+1914,Diffuse bilateral interstitial opacities.,"Stable bilateral interstitial opacities, could represent scarring or infiltrate. CT may be helpful to further characterize.",No
+324,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+571,No acute findings.,Clear lungs with no suspicious pulmonary nodules or masses.,Yes
+3670,No acute findings.,No acute cardiopulmonary disease.,Yes
+1458,No acute findings.,Stable cardiomegaly. Clear lungs. .,No
+810,No acute findings.,No evidence of active cardiopulmonary disease.,Yes
+1936,"No. Right internal jugular catheter exchanged for a left internal jugular central venous catheter with tip at the cavoatrial junction  
+2. Stable thoracolumbar scoliosis  
+3. Stable cardiomegaly  
+
+No acute findings.",1. Interval central catheter exchange. No acute cardiopulmonary abnormality. 2. Stable cardiomegaly. .,Yes
+2358,No acute findings.,No acute cardiopulmonary abnormalities. .,Yes
+3016,No acute findings.,No acute findings.,Yes
+3122,No acute findings.,No acute cardiopulmonary disease. .,Yes
+3834,No acute findings.,No acute cardiopulmonary disease.,Yes
+2782,No acute findings.,No active disease.,Yes
+1257,Mild cardiomegaly. Hypoinflation of the lungs. Right basilar opacity may represent atelectasis. Sclerosis of the humeral heads bilateral. Sclerotic vertebral body endplates with central depression. Calcifications in the right hemiabdomen may represent calcified gallstones.,1. Right basilar opacities favored to represent atelectasis. 2. Stigmata of [REDACTED] cell disease. 3. Cholelithiasis.,Yes
+139,"Acute or abnormal findings:  
+- Mildly enlarged cardiac silhouette.  
+- Lobulated opacity in the anterior mediastinum (tortuous/ectatic thoracic aorta vs. anterior mediastinal mass).  
+- Tortuous and calcified thoracic aorta.  
+- Lungs hyperexpanded with flattening of the bilateral hemidiaphragms.  
+- Severe degenerative changes of the thoracic spine.","1. Lobulated anterior mediastinal opacity on the lateral view, possibly consistent with a tortuous/ectatic thoracic aorta versus an anterior mediastinal mass. Contrast-enhanced [REDACTED] examination would [REDACTED] to further evaluate if clinically indicated. 2. Mild cardiomegaly with findings of chronic obstructive pulmonary disease.",Yes
+1214,Focal area of scarring or atelectasis in the lingula.,Focal area of [REDACTED] scarring or atelectasis within the lingula. No acute pulmonary process.,No
+1970,Cardiomegaly; Right base calcified granuloma; Stable right infrahilar nodular density.,Borderline cardiomegaly without heart failure.,No
+331,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2407,Small calcified granulomas; hyperinflation.,Probable COPD and old granulomatous disease.,No
+1557,"- Mildly enlarged cardiac silhouette  
+- Bilateral pulmonary opacities with blunting of the costophrenic angles (right > left)  
+- Pleural thickening versus loculated pleural fluid in the right upper lobe  
+- Right perihilar opacities  
+- Bilateral mild pulmonary atelectasis  
+- Bilateral mild infiltrates  
+- Bilateral small pleural effusions","1. Enlarged cardiac silhouette, possibly consistent with mild cardiomegaly versus a small pericardial effusion. 2. Mild bibasilar atelectasis and/or infiltrates with probable small bilateral pleural effusions, on the right greater than left, and pleural thickening versus loculated pleural fluid along the peripheral aspect of the right upper lobe. .",Yes
+3119,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1146,No acute findings.,No acute abnormality.,Yes
+1691,Probable residual left pneumothorax. Left-sided rib fractures.,"1. Probable [REDACTED] residual left pneumothorax. 2. Stable streaky left basilar airspace disease, possibly atelectasis.",Yes
+1736,No acute findings.,1. No acute cardiopulmonary abnormalities.,Yes
+3531,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2835,No acute findings.,No acute cardiopulmonary findings.,Yes
+185,No acute findings.,No acute disease.,Yes
+356,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2591,No acute findings.,No acute cardiopulmonary process.,Yes
+3399,Strandy infiltrate in the left lower lobe; Pulmonary Atelectasis in the left lower lobe; Pneumonia in the left lower lobe.,"Patchy left lower lobe infiltrate and focal atelectasis, consistent with pneumonitis.",Yes
+3630,Acute or abnormal findings: aortic vascular calcification; left lung calcified granuloma.,"No acute or active cardiac, pulmonary or pleural disease.",No
+2248,No acute findings.,No acute abnormality.,Yes
+3470,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1548,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3514,No acute findings.,No acute cardiopulmonary process.,Yes
+676,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+2610,No acute findings.,Hyperexpanded lungs. [REDACTED] right upper lobe scarring/atelectasis. No focal pneumonia.,No
+3424,No acute findings.,No acute radiographic cardiopulmonary process.,Yes
+3494,No acute findings.,No acute cardiopulmonary findings.,Yes
+1539,No acute findings.,Normal chest film.,Yes
+2108,No acute findings.,No active disease.,Yes
+3772,No acute findings.,1. No evidence of active disease.,Yes
+3756,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1738,Mild aortic tortuosity.,No acute findings.,No
+997,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1855,Focal left lateral base airspace disease. 6 mm nodular opacity in the right midlung. Apparent deformity of the right humeral surgical neck.,Left base airspace disease and nodular opacity in the right midlung.,Yes
+317,No acute findings.,No acute abnormality.,Yes
+740,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+1224,No acute findings.,No active disease.,Yes
+337,Minimal opacities at the posterior sulci. A few septal lines of the left lateral sulcus.,No pneumothorax. Similar appearance.,No
+1568,No acute findings.,No acute disease.,Yes
+2966,No acute findings.,1. No evidence of active disease.,Yes
+352,No acute findings.,1. No acute cardiopulmonary process. .,Yes
+2005,No acute findings.,Normal chest,Yes
+2845,No acute findings.,No acute cardiopulmonary finding.,Yes
+2465,Mild cardiomegaly.,1. No acute radiographic cardiopulmonary process.,No
+3989,Right hemidiaphragm eventration. No other acute findings.,No acute cardiopulmonary findings,No
+76,No acute findings.,"Apparent scarring within the lingula, otherwise unremarkable.",No
+2978,No acute findings.,No acute findings. .,Yes
+1053,No acute findings.,1. Scattered bilateral subsegmental atelectasis. Decreased from prior radiograph. 2. Stable mild cardiomegaly.,No
+2818,"Increased opacity in the left upper lobe, peripherally. Pulmonary hyperexpansion.","Right upper lobe cavity, consistent with prior tuberculous infection. There is increased right upper lobe opacities [REDACTED] compared to the prior study. This could represent reactivation of tuberculosis or other infection.",No
+3472,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2511,No acute findings.,No acute abnormality.,Yes
+2992,No acute findings.,Clear lungs. No acute cardiopulmonary abnormality. .,Yes
+273,Heart size mildly to moderately enlarged. Mild right hemidiaphragm elevation with mild bronchovascular crowding.,"1. Cardiomegaly 2. Indistinct vascular margination which may be secondary to bronchovascular crowding however differential diagnosis includes mild pulmonary edema, atypical infection, inflammation",No
+587,No acute findings.,1. No interval change in the appearance of the [REDACTED] opacities in the bilateral lower lobes.,No
+2863,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2078,No acute findings.,1. No acute pulmonary abnormality.,Yes
+2150,"Small nodule seen in the left upper lung, possibly granuloma.","No acute disease. Left lung nodule. Correlate with prior films if available. If none are available, followup imaging in 6 months is suggested.",No
+1815,No acute findings.,No acute cardiopulmonary findings.,Yes
+1190,No acute findings.,No active disease.,Yes
+989,No acute findings.,No acute process.,Yes
+2299,No acute findings.,Negative for acute abnormality.,Yes
+440,No acute findings.,Emphysema without acute cardiopulmonary findings.,Yes
+1847,No acute findings.,No evidence of acute cardiopulmonary process. Stable appearance of the chest.,Yes
+2825,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2972,Small bilateral pleural effusions. Blunted costophrenic angles. Lungs are hypoinflated.,"Low lung volumes with blunted costophrenic [REDACTED], [REDACTED] [REDACTED] bilateral pleural effusions.",Yes
+1110,No acute findings.,No acute cardiopulmonary abnormality. Prior granulomatous infection.,Yes
+1562,No acute findings.,Negative for acute cardiopulmonary abnormality.,Yes
+2854,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+888,No acute findings.,No acute cardiopulmonary findings.,Yes
+116,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+3379,Borderline cardiomegaly. Minimal retrocardiac airspace disease.,Bony structures appear intact. Minimal retrocardiac airspace disease.,Yes
+1024,No acute findings.,No acute abnormality.,Yes
+1075,"Acute or abnormal findings:  
+- Severe emphysema with lung hyperinflation  
+- Ill-defined pleural parenchymal opacity in the left upper lobe (possible scarring)  
+- Mild scarring and/or atelectasis in the lung bases  
+- Mild degenerative endplate changes in the thoracic spine  
+- Generalized osteopenia","1. Severe emphysema. 2. Irregular, pleural-parenchymal opacity in left upper lobe. This may irregular pleural-parenchymal scarring, however, recommend comparison with more remote outside imaging, if available to determine long-term stability. If none are available, recommend short-term [REDACTED] in 3 to 4 months. Evaluation of coronal and sagittal reformatted images from the outside study would also be helpful. These were not [REDACTED] available at the outside institution. Malignancy cannot be confidently excluded on the available images.",Yes
+1952,"Acute or abnormal findings:  
+1. Bibasilar atelectasis  
+2. Pulmonary opacity in the right lung base (may indicate focal infiltrate)",1. Right lower lobe opacity may represent focal infiltrate versus atelectasis. 2. Low lung volumes. .,Yes
+620,No acute findings.,No acute cardiopulmonary abnormality. .,Yes
+1492,No acute findings.,No acute cardiopulmonary disease,Yes
+2517,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+749,Bilateral granulomas; minimal streaky opacity at the bilateral bases related to subsegmental atelectasis.,No acute cardiothoracic process.,Yes
+1508,No acute findings.,No active disease.,Yes
+222,No acute findings.,1. No evidence of active disease.,Yes
+2506,Cardiomegaly.,Cardiomegaly similar to prior examination. Negative for evidence of acute pulmonary disease.,No
+2756,Right lower lobe infiltrate.,"1. Right lower lobe infiltrate, suggestive of pneumonia",Yes
+2083,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1099,No acute findings.,No acute cardiopulmonary findings.,Yes
+1702,Borderline enlargement of the heart.,1. No acute radiographic cardiopulmonary process.,No
+2045,Mild tortuosity of the thoracic aorta.,1. No acute cardiopulmonary disease.,No
+3074,Vague patchy opacity in the right midlung which may represent early pneumonia. Degenerative changes in the spine.,Vague patchy opacity in the right midlung which may represent an early pneumonia given patient's history.,Yes
+2070,"Subtle prominence of interstitial markings in the bases, left worse than right. Questionable old left posterior third and fourth rib fractures.","Subtle interstitial markings bilateral, may represent mild pulmonary edema or chronic interstitial changes.",No
+3199,No acute findings.,Negative chest .,Yes
+1512,No acute findings.,No acute cardiopulmonary disease,Yes
+2768,No acute findings.,No acute pulmonary disease.,Yes
+712,No acute findings.,No acute abnormality demonstrated.,Yes
+1993,No acute findings.,Mild emphysema. Negative for acute cardiopulmonary abnormality.,Yes
+181,Eventration of the right hemidiaphragm.,No acute cardiopulmonary abnormality.,No
+1895,No acute findings.,"Limited exam, no definite acute intrathoracic finding.",Yes
+3664,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1958,No acute findings.,COPD. No acute abnormality.,Yes
+3983,Left basilar airspace opacity. Right basilar atelectasis.,"1.There is a left basilar airspace opacity, which is concerning for pneumonia. 2. Right basilar atelectasis.",Yes
+862,No acute findings.,No change. No active disease.,Yes
+2843,Right paratracheal density concerning for lymphadenopathy. Patchy right upper lobe streaky opacities.,"Patchy opacities in right upper lobe, concerning for pneumonia, given history. Right paratracheal density possibly reactive lymphadenopathy. Followup evaluation to resolution is recommended.",Yes
+2924,No acute findings.,No acute radiographic cardiopulmonary process.,Yes
+3634,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+27,No acute findings.,Hyperexpanded but clear lungs.,No
+3356,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+189,1 cm focal opacity in the right lung apex incompletely evaluated by this exam. Minimal left basilar opacity compatible with scarring or atelectasis. Degenerative changes of the spine.,"1 cm of apical opacity, scarring versus nodule. A noncontrast [REDACTED] is indicated for further characterization. Critical result notification documented through Primordial.",No
+1018,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2189,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1065,No acute findings.,1. Clear lungs. No acute chest findings. 2. Peripheral vascular disease.,Yes
+2130,Cardiomegaly. Interstitial pulmonary edema. Oval 17 mm nodular opacity in the left lung. 10 mm nodular density in the right lung. Posterior effusion.,"1. Cardiomegaly with mild interstitial edema and [REDACTED] posterior pleural effusion. 2. 17 mm nodular opacity in the left lung and 10 mm nodular opacity in the right lung. These lesions are [REDACTED] and could be followed up radiographically after treatment of edema, or could be further characterized with CT.",Yes
+1459,No acute findings.,Stable cardiomegaly without acute cardiopulmonary abnormality.,Yes
+3027,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+518,No acute findings.,"Stable normal cardiac size and contour, unremarkable mediastinal silhouette. Normal pulmonary [REDACTED] and interstitium. Lungs clear, no airspace disease, pleural effusion, or pneumothorax. No active/acute cardiopulmonary disease.",Yes
+3916,No acute findings.,Normal chest,Yes
+891,No acute findings.,1. No evidence of active disease.,Yes
+1091,No acute findings.,No active disease.,Yes
+3961,Streaky opacity within the right upper lobe.,Right upper lobe infiltrate consistent with pneumonia.,Yes
+2816,No acute findings.,1. No acute pulmonary abnormality.,Yes
+365,No acute findings.,No evidence of thoracic injury.,Yes
+1626,"Numerous bilateral pulmonary nodules of varying sizes, largest in the left lower lobe measuring approximately 7.0 cm.",Numerous bilateral pulmonary nodules with dominant nodule/mass in the left lower lung. Diagnostic considerations would include primary lung carcinoma with metastatic nodules versus secondary metastatic disease from known brain tumor. Suggest clinical correlation and further imaging [REDACTED] examination.,Yes
+645,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2660,No acute findings.,Normal chest,Yes
+2166,No acute findings.,No active disease.,Yes
+358,No acute findings.,No acute cardiopulmonary disease.,Yes
+338,No acute findings.,No acute cardiopulmonary disease.,Yes
+814,No acute findings.,Old granulomatous disease and senescent changes but no acute pulmonary disease.,Yes
+361,No acute findings.,No active disease.,Yes
+3100,No acute findings.,Hyperexpanded but clear lungs.,No
+2535,No acute findings.,No cardiopulmonary abnormality.,Yes
+886,No acute findings.,No acute disease.,Yes
+2136,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3656,No acute findings.,Negative for acute cardiopulmonary disease.,Yes
+3309,No acute findings.,1. No acute cardiopulmonary findings.,Yes
+1873,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1073,"Lungs are hyperexpanded, with flattened diaphragms. Mild tortuosity of the thoracic aorta. Degenerative changes of the thoracic spine.",1. No acute cardiopulmonary abnormality. 2. Chronic changes consistent with emphysema.,No
+101,"Mild cardiomegaly, hypoinflated lungs with elevated left hemidiaphragm, pulmonary atelectasis, pulmonary congestion, chronic dislocation of the left humerus, bilateral severe degenerative changes of the shoulders.","1. Mild stable cardiomegaly and central vascular congestion. 2. Low lung volumes with elevated left hemidiaphragm and basilar subsegmental atelectasis. 3. Extensive bilateral shoulder degenerative changes with subluxation/dislocation left shoulder, possibly chronic. Suggest clinical correlation.",No
+3174,No acute findings.,Hyperinflation with chronic upper lobe reticular-nodular pleural-parenchymal opacities and hilar retraction. No gross interval change from [REDACTED]. .,No
+3045,No acute findings.,Normal chest.,Yes
+3887,Possible right [REDACTED] versus dextrocardia.,1. No acute cardiopulmonary abnormality.. 2. Abnormal configuration of the heart and mediastinum suggestive of right aortic [REDACTED] versus dextrocardia.,No
+1149,Calcified granulomas in bilateral hilar regions.,1. No acute cardiopulmonary abnormality.,No
+15,No acute findings.,No acute cardiopulmonary findings.,Yes
+1033,Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis. Degenerative changes of the spine.,1. Low volume study without definite acute process.,No
+956,Pectus carinatum. Stable mild cardiomegaly and increased lung vascularity.,Stable mild cardiomegaly and increased lung vascularity. Clear lungs.,No
+3431,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+601,Patchy bibasilar airspace opacities right greater than left. Prominence of the mediastinum. Low lung volumes with bronchovascular crowding.,"1. Bilateral lower lung airspace disease right greater than left, most [REDACTED] representing acute infectious process. 2. Widening of the mediastinum, [REDACTED] secondary to lymphadenopathy related to sarcoid, or possibly reactive adenopathy.",Yes
+3213,No acute findings.,No acute cardiopulmonary disease.,Yes
+479,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2022,No acute findings.,No active disease.,Yes
+1580,No acute findings.,"1. No focal airspace consolidation. 2. Mildly hyperexpanded lungs, suggestive of obstructive lung disease.",No
+1669,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3033,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2338,No acute findings.,Significant improvement in bilateral airspace disease and improved aeration bilaterally as described above.,No
+3595,"Increased interstitial lung markings, possibly due to volume overload. Small residual left basilar effusion. Stable cardiomegaly.","Stable cardiomegaly. Improved aeration of lung bases with persistent left basilar effusion. Prominent interstitium, possibly due to mild volume overload. .",No
+3239,No acute findings.,No acute preoperative findings.,Yes
+3549,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+450,No acute findings.,1. No acute cardiopulmonary findings.,Yes
+2344,Lungs are hypoinflated. Postsurgical/biopsy changes overlying the right breast.,Mild hypoinflation without acute disease.,No
+3938,No acute findings.,Normal chest,Yes
+3945,"Increased size of left pneumothorax (3.5 cm at apex), partial collapse of left upper and lower lobes, small left pleural effusion/hemothorax.","1. Increased size of left pneumothorax, with [REDACTED] partial collapse of the left upper and lower lobes. 2. Small left pleural effusion/hemothorax.",Yes
+1963,No acute findings.,No acute cardiopulmonary abnormality identified.,Yes
+2450,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2597,No acute findings.,Decreasing bilateral hilar adenopathy. Continued clear lungs.,No
+2012,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1645,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+649,Mild chronic opacities in the left lung base with probable small residual effusion.,Stable postsurgical changes of left hemithorax with resolution of small apical pneumothorax and basilar air space opacities.,No
+2743,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+264,No acute findings.,No radiographic evidence of acute cardiopulmonary disease,Yes
+2701,No acute findings.,No active disease.,Yes
+1303,"Acute or abnormal findings:  
+1. 3 cm uncalcified mass in the posterior segment of the right upper lobe.  
+2. 8 mm opacity adjacent to the left [REDACTED] of the heart (may be artifactual, but another mass cannot be excluded).  
+3. Unchanged hiatal hernia.","[REDACTED] right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation.",No
+3462,Small retrocardiac density (possible small hiatal hernia). Left IJ catheter tip at cavoatrial junction.,No acute disease.,No
+10,No acute findings.,No acute cardiopulmonary process.,Yes
+3277,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+371,Hyperinflation. Calcification over the anterior mediastinum. Arthritic changes in the spine.,COPD and old granulomatous disease.,No
+1570,No acute findings.,No acute pulmonary disease.,Yes
+499,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1972,Airspace opacity in the left upper lung. Mild calcification of the aortic arch.,[REDACTED] airspace opacity in the left upper lung which may represent streaky atelectasis or resolving pneumonia.,Yes
+125,No acute findings.,No acute disease.,Yes
+2649,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+169,No acute findings.,1. No acute pulmonary abnormality.,Yes
+143,Calcified right hilar and infracarinal lymph nodes.,Old granulomatous disease. No acute pulmonary disease.,No
+3165,Right-sided rib fractures. Bilateral opacities obscuring the hemidiaphragms.,"Mildly improved [REDACTED] [REDACTED] opacities, which may represent atelectasis, infiltrate and/or pleural effusions.",No
+3813,Opacity left lung base may represent atelectasis or early infiltrate.,[REDACTED] opacity left lung base..,Yes
+1413,No acute findings.,Low lung volumes with grossly clear lungs.,No
+2632,No acute findings.,No acute findings,Yes
+3465,No acute findings.,Clear lungs.,Yes
+3716,Bilateral nipple jewelry.,Negative for acute abnormality.,No
+135,No acute findings.,Clear lungs,Yes
+3648,No acute findings.,No acute cardiopulmonary finding.,Yes
+1871,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3264,Calcified granulomas. Bilateral apical scarring. Flattened diaphragms. Thoracic deformity.,Radiographic findings suggestive of emphysema.,No
+3728,No acute findings.,No evidence of acute cardiopulmonary process.,Yes
+3933,No acute findings.,No acute cardiopulmonary abnormalities. .,Yes
+2375,No acute findings.,No acute cardiopulmonary findings.,Yes
+2956,No acute findings.,Normal chest.,Yes
+790,No acute findings.,No active disease.,Yes
+2485,"Bilateral lower lung airspace disease. Small to moderate bilateral pleural effusions, left greater than right. Calcified left hilar lymph node.",Small to moderate sized bilateral pleural effusions with adjacent infiltrate or atelectasis.,Yes
+2417,Minimal bibasilar airspace disease.,Minimal bibasilar airspace disease.,Yes
+2255,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+694,No acute findings.,No evidence of acute cardiopulmonary disease.,Yes
+2283,Persistent elevation of the left hemidiaphragm.,No acute visualized cardiopulmonary abnormality.,No
+2079,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1051,No acute findings.,No acute cardiopulmonary process.,Yes
+2529,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2026,No acute findings.,No acute cardiopulmonary abnormalities. .,Yes
+2595,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+255,No acute findings.,No acute cardiopulmonary disease.,Yes
+922,Cardiomegaly/mild,Slight cardiomegaly with no failure or pneumonia.,No
+3208,No acute findings.,No evidence of active disease.,Yes
+1709,Minimal [REDACTED] opacity in the lung bases.,No acute cardiopulmonary findings. .,Yes
+2458,No acute findings.,No acute abnormality.,Yes
+947,No acute findings.,Negative for acute abnormality.,Yes
+3300,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3127,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3948,No acute findings.,No acute cardiopulmonary process.,Yes
+1856,No acute findings.,No acute cardiopulmonary findings.,Yes
+3259,No acute findings.,Persistent and biapical opacities. No acute pulmonary disease identified.,Yes
+3543,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1796,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+2251,No acute findings.,No acute disease.,Yes
+3608,Enlarged heart. Possible pericardial effusion.,Chest. 1. Cardiomegaly with possible pericardial effusion. 2. No evidence for pulmonary edema or pneumonitis. KUB. 1. Nonspecific abdomen.,Yes
+1586,No acute findings.,No acute cardiopulmonary abnormality. Stable [REDACTED] deformities of the upper thoracic segments.,Yes
+322,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+85,No acute findings.,No evidence of active disease.,Yes
+849,Acute or abnormal findings: 9 mm non-calcified nodule in the left lung base.,1. No acute cardiopulmonary process. 2. 9 mm left lower lobe pulmonary nodule not definitively calcified. Recommend comparison with prior images to document stability. If none are available consider nonemergent [REDACTED] chest for further characterization. .,Yes
+1289,Bilateral blunted costophrenic angles; bilateral large pleural effusions.,"Bilateral large pleural effusion, possibly from pleuritis or sympathetic from the known pancreatitis.",Yes
+463,Approximately 4 cm opacity in the lateral lower left lung with one ill-defined margin; T-spine osteophytes; calcified hilar lymph nodes.,Approximately 4.8 cm mass in the left lower hemithorax. This is favored to be arising from the chest wall and be pleural based. A CT of the chest is recommended for further evaluation. Critical result notification documented through Primordial.,No
+686,Cardiomegaly with unfolded aorta.,Cardiomegaly. Clear lungs. .,No
+2773,No acute findings.,No acute cardiopulmonary disease.,Yes
+2689,Area of focal density overlying the right first rib and medial clavicle (1.2 cm). Calcified granulomas. Calcifications of the aortic [REDACTED]. Left mastectomy.,1. Focal density overlying the right first rib and medial right clavicle. This could be bony in origin but an underlying pulmonary lesion cannot be excluded. No prior images are currently available for comparison. If outside images are available comparison is recommended. Otherwise [REDACTED] scan of the chest.,No
+2698,No acute findings.,No acute cardiopulmonary disease,Yes
+584,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2716,"Right lower lobe consolidation and atelectasis.  
+Blunting of the bilateral costophrenic angles.  
+Bibasilar subsegmental atelectasis.",Right lower lobe airspace disease with bilateral pleural effusions.,Yes
+2981,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3971,No acute findings.,No acute cardiopulmonary finding.,Yes
+3650,Bilateral enlarged pulmonary arteries. Lungs hyperexpanded with flattened hemidiaphragms.,1. Pulmonary emphysema. 2. Large bilateral pulmonary arteries suggestive of pulmonary arterial hypertension. 3. No suspicious nodules or are identified.,No
+2186,No acute findings.,No acute cardiopulmonary disease.,Yes
+1491,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2388,No acute findings.,Normal chest,Yes
+2516,No acute findings.,No acute findings,Yes
+247,No acute findings.,No acute cardiopulmonary process.,Yes
+864,No acute findings.,Stable exam with no acute abnormality seen.,Yes
+3525,Foreign Bodies/right shoulder; Calcified Granuloma/scattered/multiple,No acute cardiopulmonary abnormality. No fracture visualized.,No
+617,No acute findings.,Clear lungs.,Yes
+3149,No acute findings.,Lung hyperexpansion. No focal air space disease.,No
+2985,No acute findings.,No acute cardiopulmonary abnormality..,Yes
+1061,No acute findings.,No acute cardiopulmonary disease.,Yes
+443,No acute findings.,"No acute cardiopulmonary abnormality, specifically no evidence for acute tuberculosis.",Yes
+1848,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+2507,Bibasilar airspace disease. Blunting of the right costophrenic angle.,Bibasilar airspace disease.,Yes
+3838,No acute findings.,No acute cardiopulmonary findings. .,Yes
+2447,Calcified right hilar lymph nodes. Atherosclerotic calcifications of the aorta. Mild to moderate degenerative changes of the thoracic spine.,1. No acute intrathoracic abnormality.,No
+455,Low lung volumes with bronchovascular crowding and basilar subsegmental atelectasis. Prominence of the right cardiac silhouette.,No acute cardiopulmonary abnormality.,No
+238,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3910,No acute findings.,Negative for acute cardiopulmonary findings.,Yes
+1246,No acute findings.,No acute findings.,Yes
+693,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+608,No acute findings.,1. No acute cardiopulmonary disease.,Yes
+2700,No acute findings.,No acute findings.,Yes
+2725,Deformed right ribs.,No acute findings.,Yes
+502,No acute findings.,Chest. 1. No acute cardiopulmonary abnormality. Abdomen. 1. No acute intra-abdominal process. Negative for obstruction.,Yes
+1284,Interval decrease and left basilar opacity. Increase in opacities in the right lung base.,1. Cardiac [REDACTED] in stable position. 2. Increase in right and decrease in left basilar atelectasis.,Yes
+2862,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1960,No acute findings.,Negative chest x-[REDACTED].,Yes
+249,"Lobulated right middle lobe mass measuring 4.5 x 6.8 cm, increased in size compared to prior study, most compatible with neoplasm.","1. Interval enlargement of right middle lobe mass, highly suspicious for malignancy. Recommend CT of the chest/abdomen with intravenous contrast for further evaluation. 2. Otherwise clear lungs. Dr. [REDACTED] [REDACTED] notified of the critical results at [REDACTED] on [REDACTED], [REDACTED] by telephone and acknowledged receipt of these results.",Yes
+573,Streaky opacities in the lung bases may represent atelectasis or scarring. Marked centrilobular emphysema.,No evidence of acute cardiopulmonary disease or significant interval change.,No
+2878,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+2084,Fractures at T5 and L2 with areas of sclerosis throughout the thoracic and lumbar spine.,1. Pathologic fractures seen at T5 and L2. 2. Left venous catheter in SVC.,Yes
+3882,Eventration of the left diaphragm. Question left basilar atelectasis versus infiltrate.,"Generalized low lung lungs with eventration of the left hemidiaphragm. Question concomitant left basilar opacity, may represent atelectasis or infiltrate.",Yes
+939,No acute findings.,No acute pulmonary disease.,Yes
+3315,No acute findings.,No acute pulmonary disease.,Yes
+1410,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+1409,No acute findings.,1. No acute cardiopulmonary findings.,Yes
+3769,Increased perihilar opacities bilaterally.,"Low lung volumes with slightly increased perihilar opacities bilaterally, [REDACTED] infectious etiology.",No
+3846,Recurrence moderate-sized left pleural effusion. Limited right base stringy density compatible with atelectasis. Dextroscoliosis of the thoracic spine.,Recurrent moderate sized left pleural effusion.,No
+3812,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+3546,Unchanged cardiomegaly. Continued interstitial prominence bilaterally. Patchy retrocardiac opacity.,"Unchanged appearance of the chest with interstitial prominence the differential of which is [REDACTED] but could include interstitial edema, infectious process or interstitial disease.",Yes
+1812,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+1666,"Mild cardiomegaly. Scattered bilateral lung opacities, most notably in the right middle lobe, with subsegmental atelectasis. Diffuse degenerative changes of the spine.","1. Scattered [REDACTED] of subsegmental atelectasis, most notably in the right middle lobe. 2. Mildly enlarged cardiac silhouette; cardiomegaly versus pericardial effusion.",Yes
+1740,"Acute or abnormal findings: 
+
+- Airspace opacity in the mid right lung radiating from the right hilum to the pleura  
+- Right base patchy airspace opacity  
+- Convex upward [REDACTED] fissure",Right upper lobe airspace consolidation Please correlate clinically for pneumonia.,No
+98,Reduced lung volumes with basilar atelectasis.,"No acute or active cardiac, pulmonary or pleural disease.",No
+3160,Multiple radiopaque densities overlying the thorax. Degenerative changes of the spine.,1. No acute radiographic cardiopulmonary process.,No
+2984,No acute findings.,Cardiomegaly. No acute pulmonary disease process.,No
+24,No acute findings.,No acute cardiopulmonary abnormality.,Yes
+2039,Large calcified granulomas in the right hilum.,No acute pulmonary findings.,No
+1926,No acute findings.,No active disease.,Yes
+3301,No acute findings.,1. No acute radiographic cardiopulmonary process.,Yes
+3142,No acute findings.,No acute process. Stable cardiomegaly.,Yes
+1659,No acute findings.,No acute cardiopulmonary findings. No displaced fractures.,Yes
+3254,No acute findings.,No acute cardiopulmonary abnormalities.,Yes
+1851,No acute findings.,No acute cardiopulmonary findings. .,Yes
+3984,The thoracic aorta remains tortuous. The presence of an aortic aneurysm cannot be excluded on this study. There are calcified mediastinal and hilar lymph nodes suggesting prior histoplasmosis infection.,1. Stable tortuosity of the thoracic aorta. The presence of an underlying aneurysm cannot be excluded. 2. Clear lungs,No
+3581,Pectus carinatum. Calcified lymph nodes and granuloma. Mild deformity in the lower thoracic spine.,1. No evidence of active disease. 2. Evidence of previous granulomatous infection. 3. Pectus carinatum.,No
+2654,No acute findings.,No active disease.,Yes
+1152,Heart is enlarged. Atherosclerotic calcifications present within the thoracic aorta. Chronic degenerative changes within the spine.,1. Cardiomegaly without acute cardiopulmonary abnormality.,No
+3720,No acute findings.,No acute cardiopulmonary findings. .,Yes
+1045,No acute findings.,No acute findings,Yes
+1305,No acute findings.,No active disease.,Yes
+186,No acute findings.,No acute cardiopulmonary abnormalities. No evidence of abnormal radiodense foreign bodies.,Yes

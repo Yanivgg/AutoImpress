@@ -1,0 +1,41 @@
+Model,Phrase,Total,YES,NO,YES (%),NO (%)
+GPT-4.1,no acute cardiopulmonary abnormality,263,220,43,83.7,16.3
+GPT-4.1,no acute cardiopulmonary findings,98,80,18,81.6,18.4
+GPT-4.1,no acute cardiopulmonary abnormalities,78,68,10,87.2,12.8
+GPT-4.1,no acute cardiopulmonary disease,98,79,19,80.6,19.4
+GPT-4.1,no acute disease,66,56,10,84.8,15.2
+GPT-4.1,no acute cardiopulmonary process,45,36,9,80.0,20.0
+GPT-4.1,no acute radiographic cardiopulmonary process,57,48,9,84.2,15.8
+GPT-4.1,no acute cardiopulmonary abnormality identified,14,13,1,92.9,7.1
+GPT-4.1,no acute pulmonary disease,40,31,9,77.5,22.5
+GPT-4.1,no acute findings,43,28,15,65.1,34.9
+DeepSeek,no acute cardiopulmonary abnormality,263,236,27,89.7,10.3
+DeepSeek,no acute cardiopulmonary findings,98,90,8,91.8,8.2
+DeepSeek,no acute cardiopulmonary abnormalities,78,73,5,93.6,6.4
+DeepSeek,no acute cardiopulmonary disease,98,83,15,84.7,15.3
+DeepSeek,no acute disease,66,56,10,84.8,15.2
+DeepSeek,no acute cardiopulmonary process,45,40,5,88.9,11.1
+DeepSeek,no acute radiographic cardiopulmonary process,57,46,11,80.7,19.3
+DeepSeek,no acute cardiopulmonary abnormality identified,14,14,0,100.0,0.0
+DeepSeek,no acute pulmonary disease,40,29,11,72.5,27.5
+DeepSeek,no acute findings,43,30,13,69.8,30.2
+FLAN Baseline,no acute cardiopulmonary abnormality,45,0,45,0.0,100.0
+FLAN Baseline,no acute cardiopulmonary findings,15,0,15,0.0,100.0
+FLAN Baseline,no acute cardiopulmonary abnormalities,15,0,15,0.0,100.0
+FLAN Baseline,no acute cardiopulmonary disease,18,0,18,0.0,100.0
+FLAN Baseline,no acute disease,12,0,12,0.0,100.0
+FLAN Baseline,no acute cardiopulmonary process,12,0,12,0.0,100.0
+FLAN Baseline,no acute radiographic cardiopulmonary process,4,0,4,0.0,100.0
+FLAN Baseline,no acute cardiopulmonary abnormality identified,1,0,1,0.0,100.0
+FLAN Baseline,no acute pulmonary disease,10,0,10,0.0,100.0
+FLAN Baseline,no acute findings,11,0,11,0.0,100.0
+FLAN Fine-tuned,no acute cardiopulmonary abnormality,92,75,17,81.5,18.5
+FLAN Fine-tuned,no acute cardiopulmonary findings,51,37,14,72.5,27.5
+FLAN Fine-tuned,no acute cardiopulmonary abnormalities,32,25,7,78.1,21.9
+FLAN Fine-tuned,no acute cardiopulmonary disease,41,30,11,73.2,26.8
+FLAN Fine-tuned,no acute disease,34,17,17,50.0,50.0
+FLAN Fine-tuned,no acute cardiopulmonary process,22,18,4,81.8,18.2
+FLAN Fine-tuned,no acute radiographic cardiopulmonary process,14,10,4,71.4,28.6
+FLAN Fine-tuned,no acute cardiopulmonary abnormality identified,7,6,1,85.7,14.3
+FLAN Fine-tuned,no acute pulmonary disease,16,2,14,12.5,87.5
+FLAN Fine-tuned,no acute findings,12,3,9,25.0,75.0
