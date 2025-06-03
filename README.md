@@ -60,7 +60,21 @@ AutoImpress is a comprehensive research project that explores **automated clinic
 ### 📊 Dataset Statistics
 - **Text Length**: Findings ≈ 190 chars, Impression ≈ 76 chars
 - **Vocabulary**: ~2,000 unique tokens
-- **Common Pattern**: "No acute cardiopulmonary abnormality" appears in 490+ records
+- **Common Pattern**: 
+
+| Phrase                                      | Count |
+|--------------------------------------------|-------|
+| No acute cardiopulmonary abnormality        | 491   |
+| No acute cardiopulmonary findings           | 189   |
+| No acute cardiopulmonary abnormalities      | 168   |
+| No acute cardiopulmonary disease            | 163   |
+| No acute disease                            | 126   |
+| No acute cardiopulmonary process            | 106   |
+| No acute radiographic cardiopulmonary process | 93  |
+| No acute cardiopulmonary abnormality identified | 80 |
+| No acute pulmonary disease                  | 76    |
+| No acute findings                           | 60    |
+
 
 ### 🔧 Preprocessing Steps
 - Removed ~520 incomplete records
