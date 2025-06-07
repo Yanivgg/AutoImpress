@@ -125,7 +125,7 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 - **Limitation**: May not capture clinical nuances
 
 ---
-## Key Results
+## 🏆 Key Results
 ###
 ![Clinical Equivalence](images/clinical_equivalence.png)
 > Fine-tuning with FLAN-T5 significantly improves clinical equivalence from 1.3% to 47.7%, while large models like GPT-4.1 and DeepSeek exceed 77%.
@@ -141,6 +141,18 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 ###
 ![Model Comparison](images/model_comparison_overview.png)
 > A clear visual ranking of models based on clinical equivalence outcomes.
+
+###
+![Pattern Recognition](images/pattern_recognition_analysis.png)
+> Visual breakdown of model performance on simple vs. complex patterns. FLAN-T5 benefits most from fine-tuning in both cases.
+
+###
+![Clinical Phrase Impact](images/clinical_phrase_impact_analysis.png)
+> Different phrase types affect model agreement. "No acute" phrases show ~90% agreement, while complex and borderline cases reduce alignment.
+
+###
+![Fine-Tuning Impact](images/fine_tuning_impact.png)
+> Fine-tuning changed 129 cases from “No” to “Yes”. This major improvement highlights the effectiveness of domain adaptation.
 
 ###
 ![Detailed Performance Metrics](images/detailed_performance_metrics.png)
