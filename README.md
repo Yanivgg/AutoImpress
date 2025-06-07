@@ -28,6 +28,10 @@
 
 AutoImpress is a comprehensive research project that explores **automated clinical impression generation** from structured radiology report fields using state-of-the-art Large Language Models (LLMs). The project benchmarks multiple approaches including fine-tuning and prompt engineering on the **IU-XRay dataset**.
 
+## 🖼️ Graphical Abstract
+
+![AutoImpress Graphical Abstract](images/autoimpress_graphical_abstract.png)
+
 ### 🎪 Problem Statement
 - **Input**: Structured radiology report fields (Findings, Indication, Comparison, etc.)
 - **Output**: Concise, clinically accurate impression summaries
