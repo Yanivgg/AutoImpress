@@ -142,7 +142,7 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 ![Model Comparison](images/model_comparison_overview.png)
 > A clear visual ranking of models based on clinical equivalence outcomes.
 
-### 📋 Detailed Performance Metrics
+###
 ![Detailed Performance Metrics](images/detailed_performance_metrics.png)
 > Breakdown of Clinical Equivalence, BERTScore F1, sample counts, and key takeaways for each model. Includes both semantic and clinical accuracy perspectives.
 
