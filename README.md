@@ -9,19 +9,28 @@
 **[📊 Results](#-key-results) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-project-structure) • [🎯 Architecture](#-methodology)**
 
 ---
-
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
+- [🖼️ Graphical Abstract](#️-graphical-abstract)
+  - [🎪 Problem Statement](#-problem-statement)
+  - [🏆 Key Contributions](#-key-contributions)
 - [👥 Team](#-team)
-- [🏥 Dataset](#-dataset)
-- [🧠 Methodology](#-methodology)
-- [📊 Key Results](#-key-results)
 - [📦 Project Structure](#-project-structure)
+  - [📊 Output File Meanings](#-output-file-meanings)
 - [🚀 Quick Start](#-quick-start)
-- [📈 Advanced Analysis](#-advanced-analysis)
+- [🏥 Dataset](#-dataset)
+  - [📊 Dataset Statistics](#-dataset-statistics)
+  - [🔧 Preprocessing Steps](#-preprocessing-steps)
+- [🧠 Methodology](#-methodology)
+  - [🤖 Models Evaluated](#-models-evaluated)
+  - [🔄 Processing Pipelines](#-processing-pipelines)
+  - [📏 Evaluation Metrics](#-evaluation-metrics)
+- [🏆 Key Results](#-key-results)
 - [💡 Key Insights](#-key-insights)
 - [🔬 References](#-references)
+- [🙏 Acknowledgments](#-acknowledgments)
+
 ---
 
 ## 🎯 Overview
@@ -51,6 +60,79 @@ AutoImpress is a comprehensive research project that explores **automated clinic
 | **Yaniv Grosberg** |
 | **Netanel Ohev Shalom** |
 | **Aviel Shmuel** | 
+
+---
+
+## 📦 Project Structure
+
+```
+AutoImpress/
+├── 📁 data_raw/                     # Raw datasets
+│   └── indiana_reports.csv
+├── 📁 data_cleaned/                 # Processed datasets  
+│   └── indiana_reports_cleaned.csv
+├── 📁 outputs/
+│   ├── 📁 flan-t5-base/            # FLAN-T5 results
+│   │   ├── generated_impressions_300_flan.csv
+│   │   ├── finetuned_model_test_results.csv
+│   │   ├── results_with_azure_gpt_judgment_baseline.csv
+│   │   └── results_with_azure_gpt_judgment.csv
+│   ├── 📁 gpt-deepseek/            # GPT-4.1 & DeepSeek results
+│   │   ├── gpt41_judged_results.csv
+│   │   ├── deepseek_judged_results.csv
+│   │   ├── gpt4_1_acute_findings_vs_ground_truth.csv
+│   │   └── deepseek_acute_findings_vs_ground_truth.csv
+│   └── 📁 Analyze_Results_outputs/  # Analysis outputs
+│       └── judgment_phrase_summary.csv
+├── 📁 notebooks/
+│   ├── 📓 Preprocessing_EDA.ipynb   # Data exploration & cleaning
+│   ├── 📓 flan-t5-base.ipynb       # FLAN-T5 training & evaluation
+│   ├── 📓 gpt_deepseek.ipynb       # API-based model evaluation
+│   └── 📓 Analyze_Results.ipynb    # Comprehensive results analysis
+├── 🐍 utils_file.py                # Shared utility functions
+├── 📋 requirements.txt             # Python dependencies
+└── 📖 README.md                    # Project documentation
+```
+
+### 📊 Output File Meanings
+- **`uid`**: Unique identifier for each report
+- **`generated_impression`**: Model-generated clinical summary
+- **`true_impression`**: Expert-labeled ground truth
+- **`gpt_equivalence`**: GPT-4o clinical judgment (Yes/No)
+
+
+---
+
+## 🚀 Quick Start
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/Yanivgg/AutoImpress.git
+cd AutoImpress
+```
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run Analysis Pipeline
+```bash
+# Data preprocessing and EDA
+jupyter notebook notebooks/Preprocessing_EDA.ipynb
+
+# FLAN-T5 model training and evaluation
+jupyter notebook notebooks/flan-t5-base.ipynb
+
+# GPT-4.1 and DeepSeek evaluation
+jupyter notebook notebooks/gpt_deepseek.ipynb
+
+# Comprehensive results analysis
+jupyter notebook notebooks/Analyze_Results.ipynb
+```
+
+### 4️⃣ Explore Results
+Generated outputs will be saved in the `outputs/` directory with detailed CSV files for further analysis.
 
 ---
 
@@ -157,102 +239,6 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 ###
 ![Detailed Performance Metrics](images/detailed_performance_metrics.png)
 > Breakdown of Clinical Equivalence, BERTScore F1, sample counts, and key takeaways for each model. Includes both semantic and clinical accuracy perspectives.
-
----
-
-## 📦 Project Structure
-
-```
-AutoImpress/
-├── 📁 data_raw/                     # Raw datasets
-│   └── indiana_reports.csv
-├── 📁 data_cleaned/                 # Processed datasets  
-│   └── indiana_reports_cleaned.csv
-├── 📁 outputs/
-│   ├── 📁 flan-t5-base/            # FLAN-T5 results
-│   │   ├── generated_impressions_300_flan.csv
-│   │   ├── finetuned_model_test_results.csv
-│   │   ├── results_with_azure_gpt_judgment_baseline.csv
-│   │   └── results_with_azure_gpt_judgment.csv
-│   ├── 📁 gpt-deepseek/            # GPT-4.1 & DeepSeek results
-│   │   ├── gpt41_judged_results.csv
-│   │   ├── deepseek_judged_results.csv
-│   │   ├── gpt4_1_acute_findings_vs_ground_truth.csv
-│   │   └── deepseek_acute_findings_vs_ground_truth.csv
-│   └── 📁 Analyze_Results_outputs/  # Analysis outputs
-│       └── judgment_phrase_summary.csv
-├── 📁 notebooks/
-│   ├── 📓 Preprocessing_EDA.ipynb   # Data exploration & cleaning
-│   ├── 📓 flan-t5-base.ipynb       # FLAN-T5 training & evaluation
-│   ├── 📓 gpt_deepseek.ipynb       # API-based model evaluation
-│   └── 📓 Analyze_Results.ipynb    # Comprehensive results analysis
-├── 🐍 utils_file.py                # Shared utility functions
-├── 📋 requirements.txt             # Python dependencies
-└── 📖 README.md                    # Project documentation
-```
-
-### 📊 Output File Meanings
-- **`uid`**: Unique identifier for each report
-- **`generated_impression`**: Model-generated clinical summary
-- **`true_impression`**: Expert-labeled ground truth
-- **`gpt_equivalence`**: GPT-4o clinical judgment (Yes/No)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/Yanivgg/AutoImpress.git
-cd AutoImpress
-```
-
-### 2️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run Analysis Pipeline
-```bash
-# Data preprocessing and EDA
-jupyter notebook notebooks/Preprocessing_EDA.ipynb
-
-# FLAN-T5 model training and evaluation
-jupyter notebook notebooks/flan-t5-base.ipynb
-
-# GPT-4.1 and DeepSeek evaluation
-jupyter notebook notebooks/gpt_deepseek.ipynb
-
-# Comprehensive results analysis
-jupyter notebook notebooks/Analyze_Results.ipynb
-```
-
-### 4️⃣ Explore Results
-Generated outputs will be saved in the `outputs/` directory with detailed CSV files for further analysis.
-
----
-
-## 📈 Advanced Analysis
-
-### 🤝 Model Agreement Analysis
-- **Overall Agreement**: GPT-4.1 and DeepSeek agreed in **83.7%** of cases
-- **Disagreement Cases**: 271 instances (16.3%) revealed interesting edge cases
-- **Fine-tuning Impact**: 129 cases improved from baseline to fine-tuned FLAN-T5
-
-### 🔍 Pattern Recognition
-Models showed varying performance on different clinical phrases:
-
-| Phrase Type         | FLAN Baseline | FLAN Fine-tuned | GPT-4.1 | DeepSeek |
-|---------------------|---------------|-----------------|---------|----------|
-| "No acute" patterns | ~0%           | ~75%            | ~85%    | ~85%     |
-| Complex findings    | ~0%           | ~25%            | ~70%    | ~75%     |
-
-
-
-### 📊 Clinical Phrase Analysis
-- **"No acute cardiopulmonary abnormality"**: Highest agreement across all models
-- **Complex multi-finding cases**: Greater model divergence
-- **Edge cases**: Models disagreed on borderline clinical interpretations
 
 ---
 
