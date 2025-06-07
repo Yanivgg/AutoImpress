@@ -256,12 +256,6 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 3. **Human Validation Essential**: Even best models miss ~22% of clinical nuances
 4. **Structured Input Benefits**: Organized report fields improve generation quality
 
-### 🔬 Research Contributions
-1. **Evaluation Framework**: Novel use of GPT-4o for clinical judgment evaluation
-2. **Comprehensive Benchmarking**: Systematic comparison across model types and sizes
-3. **Practical Insights**: Real-world applicability analysis for medical NLP systems
-4. **Open Science**: Full reproducible pipeline with detailed analysis
-
 ---
 
 ## 🔬 References
