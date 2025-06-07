@@ -126,30 +126,21 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 
 ---
 
-## 📊 Key Results
+### 📊 Clinical Equivalence Results
+![Clinical Equivalence](images/clinical_equivalence.png)
+> Fine-tuning with FLAN-T5 significantly improves clinical equivalence from 1.3% to 47.7%, while large models like GPT-4.1 and DeepSeek exceed 77%.
 
-### 🏆 Model Performance Summary
+### 🚀 Key Performance Insights
+![Key Performance Insights](images/key_performance_insights.png)
+> Highlights include 36x improvement via fine-tuning, 129 flipped cases, and analysis of 3,331 radiology reports.
 
-| Model                 | Clinical Equivalence        | BERTScore F1           | Samples |
-|-----------------------|----------------------------|------------------------|---------|
-| **FLAN-T5 Baseline**  | **1.3%** (4/300)          | 0.8382 ± 0.0281        | 300     |
-| **FLAN-T5 Fine-Tuned**| **47.7%** (318/667)       | 0.9227 ± 0.0536        | 667     |
-| **GPT-4.1**           | **77.1%** (1284/1666)     | 0.8794 ± 0.0317        | 1666    |
-| **DeepSeek**          | **78.6%** (1309/1666)     | 0.8826 ± 0.0319        | 1666    |
+### 🤝 Model Agreement Analysis
+![Model Agreement](images/model_agreement_analysis.png)
+> Strong agreement (83.7%) between GPT-4.1 and DeepSeek shows reliable model alignment for clinical judgment.
 
-
-### 📈 Performance Insights
-
-#### ✅ Success Stories
-- **Fine-tuning Impact**: Massive improvement from 1.3% → 47.7% clinical equivalence
-- **Large Model Excellence**: GPT-4.1 and DeepSeek achieved near-80% clinical accuracy
-- **High Agreement**: 83.7% agreement between GPT-4.1 and DeepSeek
-- **Prompt Engineering Success**: Multiple refinement rounds yielded optimal formulations
-
-#### 🔍 Key Findings
-- **129 Flipped Cases**: Fine-tuning converted 129/300 "No" → "Yes" judgments
-- **Pattern Recognition**: Models performed differently on "no acute" vs. complex cases
-- **Clinical vs. Semantic**: High BERTScore didn't guarantee clinical equivalence
+### 📈 Model Comparison Overview
+![Model Comparison](images/model_comparison_overview.png)
+> A clear visual ranking of models based on clinical equivalence outcomes.
 
 ---
 
