@@ -125,22 +125,26 @@ Data → 50% Sample → API Generation → BERTScore → GPT-4o Judge
 - **Limitation**: May not capture clinical nuances
 
 ---
-
-### 📊 Clinical Equivalence Results
+## Key Results
+###
 ![Clinical Equivalence](images/clinical_equivalence.png)
 > Fine-tuning with FLAN-T5 significantly improves clinical equivalence from 1.3% to 47.7%, while large models like GPT-4.1 and DeepSeek exceed 77%.
 
-### 🚀 Key Performance Insights
+###
 ![Key Performance Insights](images/key_performance_insights.png)
 > Highlights include 36x improvement via fine-tuning, 129 flipped cases, and analysis of 3,331 radiology reports.
 
-### 🤝 Model Agreement Analysis
+###
 ![Model Agreement](images/model_agreement_analysis.png)
 > Strong agreement (83.7%) between GPT-4.1 and DeepSeek shows reliable model alignment for clinical judgment.
 
-### 📈 Model Comparison Overview
+###
 ![Model Comparison](images/model_comparison_overview.png)
 > A clear visual ranking of models based on clinical equivalence outcomes.
+
+### 📋 Detailed Performance Metrics
+![Detailed Performance Metrics](images/detailed_performance_metrics.png)
+> Breakdown of Clinical Equivalence, BERTScore F1, sample counts, and key takeaways for each model. Includes both semantic and clinical accuracy perspectives.
 
 ---
 
